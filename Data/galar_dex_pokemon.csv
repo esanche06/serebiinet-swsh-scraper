@@ -1,0 +1,401 @@
+galar_dex_num	national_dex_num	name	type	abilities	hp	att	def	s_att	s_def	spd
+001	810	Grookey	['grass']	['Overgrow', 'Grassy Surge']	50	65	50	40	40	65
+002	811	Thwackey	['grass']	['Overgrow', 'Grassy Surge']	70	85	70	55	60	80
+003	812	Rillaboom	['grass']	['Overgrow', 'Grassy Surge']	100	125	90	60	70	85
+004	813	Scorbunny	['fire']	['Blaze', 'Libero']	50	71	40	40	40	69
+005	814	Raboot	['fire']	['Blaze', 'Libero']	65	86	60	55	60	94
+006	815	Cinderace	['fire']	['Blaze', 'Libero']	80	116	75	65	75	119
+007	816	Sobble	['water']	['Torrent', 'Sniper']	50	40	40	70	40	70
+008	817	Drizzile	['water']	['Torrent', 'Sniper']	65	60	55	95	55	90
+009	818	Inteleon	['water']	['Torrent', 'Sniper']	70	85	65	125	65	120
+010	824	Blipbug	['bug']	['Swarm', 'Compoundeyes', 'Telepathy']	25	20	20	25	45	45
+011	825	Dottler	['bug', 'psychic']	['Swarm', 'Compoundeyes', 'Telepathy']	50	35	80	50	90	30
+012	826	Orbeetle	['bug', 'psychic']	['Swarm', 'Frisk', 'Telepathy']	60	45	110	80	120	90
+013	010	Caterpie	['bug']	['Shield Dust', 'Run Away']	45	30	35	20	20	45
+014	011	Metapod	['bug']	['Shed Skin']	50	20	55	25	25	30
+015	012	Butterfree	['bug', 'flying']	['Compoundeyes', 'Tinted Lens']	60	45	50	90	80	70
+016	736	Grubbin	['bug']	['Swarm']	47	62	45	55	45	46
+017	737	Charjabug	['bug', 'electric']	['Battery']	57	82	95	55	75	36
+018	738	Vikavolt	['bug', 'electric']	['Levitate']	77	70	90	145	75	43
+019	163	Hoothoot	['normal', 'flying']	['Insomnia', 'Keen Eye', 'Tinted Lens']	60	30	30	36	56	50
+020	164	Noctowl	['normal', 'flying']	['Insomnia', 'Keen Eye', 'Tinted Lens']	100	50	50	86	96	70
+021	821	Rookidee	['flying']	['Keen Eye', 'Unnerve', 'Big Pecks']	38	47	35	33	35	57
+022	822	Corvisquire	['flying']	['Keen Eye', 'Unnerve', 'Big Pecks']	68	67	55	43	55	77
+023	823	Corviknight	['flying', 'steel']	['Pressure', 'Unnerve', 'Mirror Armor']	98	87	105	53	85	67
+024	819	Skwovet	['normal']	['Cheek Pouch', 'Gluttony']	70	55	55	35	35	25
+025	820	Greedent	['normal']	['Cheek Pouch', 'Gluttony']	120	95	95	55	75	20
+026	519	Pidove	['normal', 'flying']	['Big Pecks', 'Super Luck', 'Rivalry']	50	55	50	36	30	43
+027	520	Tranquill	['normal', 'flying']	['Big Pecks', 'Super Luck', 'Rivalry']	62	77	62	50	42	65
+028	521	Unfezant	['normal', 'flying']	['Big Pecks', 'Super Luck', 'Rivalry']	80	115	80	65	55	93
+029	827	Nickit	['dark']	['Run Away', 'Unburden', 'Stakeout']	40	28	28	47	52	50
+030	828	Thievul	['dark']	['Run Away', 'Unburden', 'Stakeout']	70	58	58	87	92	90
+031	3-g	Zigzagoon	['dark', 'normal']	['Pickup', 'Gluttony', 'Quick Feet']	38	30	41	30	41	60
+032	4-g	Linoone	['dark', 'normal']	['Pickup', 'Gluttony', 'Quick Feet']	78	70	61	50	61	100
+033	862	Obstagoon	['dark', 'normal']	['Reckless', 'Guts', 'Defiant']	93	90	101	60	81	95
+034	831	Wooloo	['normal']	['Fluffy', 'Run Away', 'Bulletproof']	42	40	55	40	45	48
+035	832	Dubwool	['normal']	['Fluffy', 'Steadfast', 'Bulletproof']	72	80	100	60	90	88
+036	270	Lotad	['water', 'grass']	['Swift Swim', 'Rain Dish', 'Own Tempo']	40	30	30	40	50	30
+037	271	Lombre	['water', 'grass']	['Swift Swim', 'Rain Dish', 'Own Tempo']	60	50	50	60	70	50
+038	272	Ludicolo	['water', 'grass']	['Swift Swim', 'Rain Dish', 'Own Tempo']	80	70	70	90	100	70
+039	273	Seedot	['grass']	['Chlorophyll', 'Early Bird', 'Pickpocket']	40	40	50	30	30	30
+040	274	Nuzleaf	['grass', 'dark']	['Chlorophyll', 'Early Bird', 'Pickpocket']	70	70	40	60	40	60
+041	275	Shiftry	['grass', 'dark']	['Chlorophyll', 'Early Bird', 'Pickpocket']	90	100	60	90	60	80
+042	833	Chewtle	['water']	['Strong Jaw', 'Shell Armor', 'Swift Swim']	50	64	50	38	38	44
+043	834	Drednaw	['water', 'rock']	['Strong Jaw', 'Shell Armor', 'Swift Swim']	90	115	90	48	68	74
+044	509	Purrloin	['dark']	['Limber', 'Unburden', 'Prankster']	41	50	37	50	37	66
+045	510	Liepard	['dark']	['Limber', 'Unburden', 'Prankster']	64	88	50	88	50	106
+046	835	Yamper	['electric']	['Ball Fetch', 'Rattled']	59	45	50	40	50	26
+047	836	Boltund	['electric']	['Strong Jaw', 'Competitive']	69	90	60	90	60	121
+048	659	Bunnelby	['normal']	['Pickup', 'Cheek Pouch', 'Huge Power']	38	36	38	32	36	57
+049	660	Diggersby	['normal', 'ground']	['Pickup', 'Cheek Pouch', 'Huge Power']	85	56	77	50	77	78
+050	572	Minccino	['normal']	['Cute Charm', 'Technician', 'Skill Link']	55	50	40	40	40	75
+051	573	Cinccino	['normal']	['Cute Charm', 'Technician', 'Skill Link']	75	95	60	65	60	115
+052	761	Bounsweet	['grass']	['Leaf Guard', 'Oblivious', 'Sweet Veil']	42	30	38	30	38	32
+053	762	Steenee	['grass']	['Leaf Guard', 'Oblivious', 'Sweet Veil']	52	40	48	40	48	62
+054	763	Tsareena	['grass']	['Leaf Guard', 'Queenly Majesty', 'Sweet Veil']	72	120	98	50	98	72
+055	043	Oddish	['grass', 'poison']	['Chlorophyll', 'Run Away']	45	50	55	75	65	30
+056	044	Gloom	['grass', 'poison']	['Chlorophyll', 'Stench']	60	65	70	85	75	40
+057	045	Vileplume	['grass', 'poison']	['Chlorophyll', 'Effect Spore']	75	80	85	110	90	50
+058	182	Bellossom	['grass']	['Chlorophyll', 'Healer']	75	80	95	90	100	50
+059	406	Budew	['grass', 'poison']	['Natural Cure', 'Poison Point', 'Leaf Guard']	40	30	35	50	70	55
+060	315	Roselia	['grass', 'poison']	['Natural Cure', 'Poison Point', 'Leaf Guard']	50	60	45	100	80	65
+061	407	Roserade	['grass', 'poison']	['Natural Cure', 'Poison Point', 'Technician']	60	70	65	125	105	90
+062	278	Wingull	['water', 'flying']	['Keen Eye', 'Hydration', 'Rain Dish']	40	30	30	55	30	85
+063	279	Pelipper	['water', 'flying']	['Keen Eye', 'Drizzle', 'Rain Dish']	60	50	100	95	70	65
+064	595	Joltik	['bug', 'electric']	['Compoundeyes', 'Unnerve', 'Swarm']	50	47	50	57	50	65
+065	596	Galvantula	['bug', 'electric']	['Compoundeyes', 'Unnerve', 'Swarm']	70	77	60	97	60	108
+066	309	Electrike	['electric']	['Static', 'Lightning Rod', 'Minus']	40	45	40	65	40	65
+067	310	Manectric	['electric']	['Static', 'Lightning Rod', 'Minus']	70	75	60	105	60	105
+068	037	Vulpix	['fire']	['Flash Fire', 'Drought']	38	41	40	50	65	65
+069	038	Ninetales	['fire']	['Flash Fire', 'Drought']	73	76	75	81	100	100
+070	058	Growlithe	['fire']	['Intimidate', 'Flash Fire', 'Justified']	55	70	45	70	50	60
+071	059	Arcanine	['fire']	['Intimidate', 'Flash Fire', 'Justified']	90	110	80	100	80	95
+072	582	Vanillite	['ice']	['Ice Body', 'Snow Cloak', 'Weak Armor']	36	50	50	65	60	44
+073	583	Vanillish	['ice']	['Ice Body', 'Snow Cloak', 'Weak Armor']	51	65	65	80	75	59
+074	584	Vanilluxe	['ice']	['Ice Body', 'Snow Warning', 'Weak Armor']	71	95	85	110	95	79
+075	220	Swinub	['ice', 'ground']	['Oblivious', 'Snow Cloak', 'Thick Fat']	50	50	40	30	30	50
+076	221	Piloswine	['ice', 'ground']	['Oblivious', 'Snow Cloak', 'Thick Fat']	100	100	80	60	60	50
+077	473	Mamoswine	['ice', 'ground']	['Oblivious', 'Snow Cloak', 'Thick Fat']	110	130	80	70	60	80
+078	225	Delibird	['ice', 'flying']	['Vital Spirit', 'Hustle', 'Insomnia']	45	55	45	65	45	75
+079	361	Snorunt	['ice']	['Inner Focus', 'Ice Body', 'Moody']	50	50	50	50	50	50
+080	362	Glalie	['ice']	['Inner Focus', 'Ice Body', 'Moody']	80	80	80	80	80	80
+081	478	Froslass	['ice', 'ghost']	['Snow Cloak', 'Cursed Body']	70	80	70	80	70	110
+082	343	Baltoy	['ground', 'psychic']	['Levitate']	40	40	55	40	70	55
+083	344	Claydol	['ground', 'psychic']	['Levitate']	60	70	105	70	120	75
+084	749	Mudbray	['ground']	['Own Tempo', 'Stamina', 'Inner Focus']	70	100	70	45	55	45
+085	750	Mudsdale	['ground']	['Own Tempo', 'Stamina', 'Inner Focus']	100	125	100	55	85	35
+086	557	Dwebble	['bug', 'rock']	['Sturdy', 'Shell Armor', 'Weak Armor']	50	65	85	35	35	55
+087	558	Crustle	['bug', 'rock']	['Sturdy', 'Shell Armor', 'Weak Armor']	70	105	125	65	75	45
+088	622	Golett	['ground', 'ghost']	['Iron Fist', 'Klutz', 'No Guard']	59	74	50	35	50	35
+089	623	Golurk	['ground', 'ghost']	['Iron Fist', 'Klutz', 'No Guard']	89	124	80	55	80	55
+090	517	Munna	['psychic']	['Forewarn', 'Synchronize', 'Telepathy']	76	25	45	67	55	24
+091	518	Musharna	['psychic']	['Forewarn', 'Synchronize', 'Telepathy']	116	55	85	107	95	29
+092	177	Natu	['psychic', 'flying']	['Synchronize', 'Early Bird', 'Magic Bounce']	40	50	45	70	45	70
+093	178	Xatu	['psychic', 'flying']	['Synchronize', 'Early Bird', 'Magic Bounce']	65	75	70	95	70	95
+094	759	Stufful	['normal', 'fighting']	['Fluffy', 'Klutz', 'Cute Charm']	70	75	50	45	50	50
+095	760	Bewear	['normal', 'fighting']	['Fluffy', 'Klutz', 'Unnerve']	120	125	80	55	60	60
+096	459	Snover	['grass', 'ice']	['Snow Warning', 'Soundproof']	60	62	50	62	60	40
+097	460	Abomasnow	['grass', 'ice']	['Snow Warning', 'Soundproof']	90	92	75	92	85	60
+098	098	Krabby	['water']	['Hyper Cutter', 'Shell Armor', 'Sheer Force']	30	105	90	25	25	50
+099	099	Kingler	['water']	['Hyper Cutter', 'Shell Armor', 'Sheer Force']	55	130	115	50	50	75
+100	194	Wooper	['water', 'ground']	['Damp', 'Water Absorb', 'Unaware']	55	45	45	25	25	15
+101	195	Quagsire	['water', 'ground']	['Damp', 'Water Absorb', 'Unaware']	95	85	85	65	65	35
+102	341	Corphish	['water']	['Hyper Cutter', 'Shell Armor', 'Adaptability']	43	80	65	50	35	35
+103	342	Crawdaunt	['water', 'dark']	['Hyper Cutter', 'Shell Armor', 'Adaptability']	63	120	85	90	55	55
+104	290	Nincada	['bug', 'ground']	['Compoundeyes', 'Run Away']	31	45	90	30	30	40
+105	291	Ninjask	['bug', 'flying']	['Speed Boost', 'Infiltrator']	61	90	45	50	50	160
+106	292	Shedinja	['bug', 'ghost']	['Wonder Guard']	1	90	45	30	30	40
+107	236	Tyrogue	['fighting']	['Guts', 'Steadfast', 'Vital Spirit']	35	35	35	35	35	35
+108	106	Hitmonlee	['fighting']	['Limber', 'Reckless', 'Unburden']	50	120	53	35	110	87
+109	107	Hitmonchan	['fighting']	['Keen Eye', 'Iron Fist', 'Inner Focus']	50	105	79	35	110	76
+110	237	Hitmontop	['fighting']	['Intimidate', 'Technician', 'Steadfast']	50	95	95	35	110	70
+111	674	Pancham	['fighting']	['Iron Fist', 'Mold Breaker', 'Scrappy']	67	82	62	46	48	43
+112	675	Pangoro	['fighting', 'dark']	['Iron Fist', 'Mold Breaker', 'Scrappy']	95	124	78	69	71	58
+113	599	Klink	['steel']	['Plus', 'Minus', 'Clear Body']	40	55	70	45	60	30
+114	600	Klang	['steel']	['Plus', 'Minus', 'Clear Body']	60	80	95	70	85	50
+115	601	Klinklang	['steel']	['Plus', 'Minus', 'Clear Body']	60	100	115	70	85	90
+116	415	Combee	['bug', 'flying']	['Honey Gather', 'Hustle']	30	30	42	30	42	70
+117	416	Vespiquen	['bug', 'flying']	['Pressure', 'Unnerve']	70	80	102	80	102	40
+118	436	Bronzor	['steel', 'psychic']	['Levitate', 'Heatproof', 'Heavy Metal']	57	24	86	24	86	23
+119	437	Bronzong	['steel', 'psychic']	['Levitate', 'Heatproof', 'Heavy Metal']	67	89	116	79	116	33
+120	280	Ralts	['psychic', 'fairy']	['Synchronize', 'Trace', 'Telepathy']	28	25	25	45	35	40
+121	281	Kirlia	['psychic', 'fairy']	['Synchronize', 'Trace', 'Telepathy']	38	35	35	65	55	50
+122	282	Gardevoir	['psychic', 'fairy']	['Synchronize', 'Trace', 'Telepathy']	68	65	65	125	115	80
+123	475	Gallade	['psychic', 'fighting']	['Steadfast', 'Justified']	68	125	65	65	115	80
+124	425	Drifloon	['ghost', 'flying']	['Aftermath', 'Unburden', 'Flare Boost']	90	50	34	60	44	70
+125	426	Drifblim	['ghost', 'flying']	['Aftermath', 'Unburden', 'Flare Boost']	150	80	44	90	54	80
+126	829	Gossifleur	['grass']	['Cotton Down', 'Regenerator', 'Effect Spore']	40	40	60	40	60	10
+127	830	Eldegoss	['grass']	['Cotton Down', 'Regenerator', 'Effect Spore']	60	50	90	80	120	60
+128	420	Cherubi	['grass']	['Chlorophyll']	45	35	45	62	53	35
+129	421	Cherrim	['grass']	['Flower Gift']	70	60	70	87	78	85
+130	434	Stunky	['poison', 'dark']	['Stench', 'Aftermath', 'Keen Eye']	63	63	47	41	41	74
+131	435	Skuntank	['poison', 'dark']	['Stench', 'Aftermath', 'Keen Eye']	103	93	67	71	61	84
+132	535	Tympole	['water']	['Swift Swim', 'Hydration', 'Water Absorb']	50	50	40	50	40	64
+133	536	Palpitoad	['water', 'ground']	['Swift Swim', 'Hydration', 'Water Absorb']	75	65	55	65	55	69
+134	537	Seismitoad	['water', 'ground']	['Swift Swim', 'Poison Touch', 'Water Absorb']	105	95	75	85	75	74
+135	355	Duskull	['ghost']	['Levitate', 'Frisk']	20	40	90	30	90	25
+136	356	Dusclops	['ghost']	['Pressure', 'Frisk']	40	70	130	60	130	25
+137	477	Dusknoir	['ghost']	['Pressure', 'Frisk']	45	100	135	65	135	45
+138	066	Machop	['fighting']	['Guts', 'No Guard', 'Steadfast']	70	80	50	35	35	35
+139	067	Machoke	['fighting']	['Guts', 'No Guard', 'Steadfast']	80	100	70	50	60	45
+140	068	Machamp	['fighting']	['Guts', 'No Guard', 'Steadfast']	90	130	80	65	85	55
+141	092	Gastly	['ghost', 'poison']	['Levitate']	30	35	30	100	35	80
+142	093	Haunter	['ghost', 'poison']	['Levitate']	45	50	45	115	55	95
+143	094	Gengar	['ghost', 'poison']	['Cursed Body']	60	65	60	130	75	110
+144	129	Magikarp	['water']	['Swift Swim', 'Rattled']	20	10	55	15	20	80
+145	130	Gyarados	['water', 'flying']	['Intimidate', 'Moxie']	95	125	79	60	100	81
+146	118	Goldeen	['water']	['Swift Swim', 'Water Veil', 'Lightning Rod']	45	67	60	35	50	63
+147	119	Seaking	['water']	['Swift Swim', 'Water Veil', 'Lightning Rod']	80	92	65	65	80	68
+148	223	Remoraid	['water']	['Hustle', 'Sniper', 'Moody']	35	65	35	65	35	65
+149	224	Octillery	['water']	['Suction Cups', 'Sniper', 'Moody']	75	105	75	105	75	45
+150	090	Shellder	['water']	['Shell Armor', 'Skill Link', 'Overcoat']	30	65	100	45	25	40
+151	091	Cloyster	['water', 'ice']	['Shell Armor', 'Skill Link', 'Overcoat']	50	95	180	85	45	70
+152	349	Feebas	['water']	['Swift Swim', 'Oblivious', 'Adaptability']	20	15	20	10	55	80
+153	350	Milotic	['water']	['Marvel Scale', 'Competitive', 'Cute Charm']	95	60	79	100	125	81
+154	550	Basculin	['water']	['Reckless', 'Adaptability', 'Mold Breaker']	70	92	65	80	55	98
+155	746	Wishiwashi	['water']	['Schooling']	45	20	20	25	25	40
+156	771	Pyukumuku	['water']	['Innards Out', 'Unaware']	55	60	130	30	130	5
+157	568	Trubbish	['poison']	['Stench', 'Sticky Hold', 'Aftermath']	50	50	62	40	62	65
+158	569	Garbodor	['poison']	['Stench', 'Weak Armor', 'Aftermath']	80	95	82	60	82	75
+159	850	Sizzlipede	['fire', 'bug']	['Flash Fire', 'White Smoke', 'Flame Body']	50	65	45	50	50	45
+160	851	Centiskorch	['fire', 'bug']	['Flash Fire', 'White Smoke', 'Flame Body']	100	115	65	90	90	65
+161	837	Rolycoly	['rock']	['Steam Engine', 'Heatproof', 'Flash Fire']	30	40	50	40	50	30
+162	838	Carkol	['rock', 'fire']	['Steam Engine', 'Flame Body', 'Flash Fire']	80	60	90	60	70	50
+163	839	Coalossal	['rock', 'fire']	['Steam Engine', 'Flame Body', 'Flash Fire']	110	80	120	80	90	30
+164	050	Diglett	['ground']	['Sand Veil', 'Arena Trap', 'Sand Force']	10	55	25	35	45	95
+165	051	Dugtrio	['ground']	['Sand Veil', 'Arena Trap', 'Sand Force']	35	100	50	50	70	120
+166	529	Drilbur	['ground']	['Sand Rush', 'Sand Force', 'Mold Breaker']	60	85	40	30	45	68
+167	530	Excadrill	['ground', 'steel']	['Sand Rush', 'Sand Force', 'Mold Breaker']	110	135	60	50	65	88
+168	524	Roggenrola	['rock']	['Sturdy', 'Weak Armor', 'Sand Force']	55	75	85	25	25	15
+169	525	Boldore	['rock']	['Sturdy', 'Weak Armor', 'Sand Force']	70	105	105	50	40	20
+170	526	Gigalith	['rock']	['Sturdy', 'Sand Stream', 'Sand Force']	85	135	130	60	80	25
+171	532	Timburr	['fighting']	['Guts', 'Sheer Force', 'Iron Fist']	75	80	55	25	35	35
+172	533	Gurdurr	['fighting']	['Guts', 'Sheer Force', 'Iron Fist']	85	105	85	40	50	40
+173	534	Conkeldurr	['fighting']	['Guts', 'Sheer Force', 'Iron Fist']	105	140	95	55	65	45
+174	527	Woobat	['psychic', 'flying']	['Unaware', 'Klutz', 'Simple']	65	45	43	55	43	72
+175	528	Swoobat	['psychic', 'flying']	['Unaware', 'Klutz', 'Simple']	67	57	55	77	55	114
+176	714	Noibat	['flying', 'dragon']	['Frisk', 'Infiltrator', 'Telepathy']	40	30	35	45	40	55
+177	715	Noivern	['flying', 'dragon']	['Frisk', 'Infiltrator', 'Telepathy']	85	70	80	97	80	123
+178	095	Onix	['rock', 'ground']	['Rock Head', 'Sturdy', 'Weak Armor']	35	45	160	30	45	70
+179	208	Steelix	['steel', 'ground']	['Rock Head', 'Sturdy', 'Sheer Force']	75	85	200	55	65	30
+180	846	Arrokuda	['water']	['Swift Swim', 'Propeller Tail']	41	63	40	40	30	66
+181	847	Barraskewda	['water']	['Swift Swim', 'Propeller Tail']	61	123	60	60	50	136
+182	2-g	Meowth	['steel']	['Pickup', 'Tough Claws', 'Unnerve']	50	65	55	40	40	40
+183	863	Perrserker	['steel']	['Battle Armor', 'Tough Claws', 'Steely Spirit']	70	110	100	50	60	50
+184	053	Persian	['normal']	['Limber', 'Technician', 'Unnerve']	65	70	60	65	65	115
+185	868	Milcery	['fairy']	['Sweet Veil', 'Aroma Veil']	45	40	40	50	61	34
+186	869	Alcremie	['fairy']	['Sweet Veil', 'Aroma Veil']	65	60	75	110	121	64
+187	742	Cutiefly	['bug', 'fairy']	['Honey Gather', 'Shield Dust', 'Sweet Veil']	40	45	40	55	40	84
+188	743	Ribombee	['bug', 'fairy']	['Honey Gather', 'Shield Dust', 'Sweet Veil']	60	55	60	95	70	124
+189	597	Ferroseed	['grass', 'steel']	['Iron Barbs']	44	50	91	24	86	10
+190	598	Ferrothorn	['grass', 'steel']	['Iron Barbs', 'Anticipation']	74	94	131	54	116	20
+191	710	Pumpkaboo	['ghost', 'grass']	['Pickup', 'Frisk', 'Insomnia']	49	66	70	44	55	51
+192	711	Gourgeist	['ghost', 'grass']	['Pickup', 'Frisk', 'Insomnia']	65	90	122	58	75	84
+193	172	Pichu	['electric']	['Static', 'Lightning Rod']	20	40	15	35	35	60
+194	025	Pikachu	['electric']	['Static', 'Lightning Rod']	35	55	40	50	50	90
+195	026	Raichu	['electric']	['Static', 'Lightning Rod']	60	90	55	90	80	110
+196	133	Eevee	['normal']	['Run Away', 'Adaptability', 'Anticipation']	55	55	50	45	65	55
+197	134	Vaporeon	['water']	['Water Absorb', 'Hydration']	130	65	60	110	95	65
+198	135	Jolteon	['electric']	['Volt Absorb', 'Quick Feet']	65	65	60	110	95	130
+199	136	Flareon	['fire']	['Flash Fire', 'Guts']	65	130	60	95	110	65
+200	196	Espeon	['psychic']	['Synchronize', 'Magic Bounce']	65	65	60	130	95	110
+201	197	Umbreon	['dark']	['Synchronize', 'Inner Focus']	95	65	110	60	130	65
+202	470	Leafeon	['grass']	['Leaf Guard', 'Chlorophyll']	65	110	130	60	65	95
+203	471	Glaceon	['ice']	['Snow Cloak', 'Ice Body']	65	60	110	130	95	65
+204	700	Sylveon	['fairy']	['Cute Charm', 'Pixilate']	95	65	65	110	130	60
+205	840	Applin	['grass', 'dragon']	['Ripen', 'Gluttony', 'Bulletproof']	40	40	80	40	40	20
+206	841	Flapple	['grass', 'dragon']	['Ripen', 'Gluttony', 'Hustle']	70	110	80	95	60	70
+207	842	Appletun	['grass', 'dragon']	['Ripen', 'Gluttony', 'Thick Fat']	110	85	80	100	80	30
+208	677	Espurr	['psychic']	['Keen Eye', 'Infiltrator', 'Own Tempo']	62	48	54	63	60	68
+209	678	Meowstic	['psychic']	['Keen Eye', 'Infiltrator', 'Prankster']	74	48	76	83	81	104
+210	684	Swirlix	['fairy']	['Sweet Veil', 'Unburden']	62	48	66	59	57	49
+211	685	Slurpuff	['fairy']	['Sweet Veil', 'Unburden']	82	80	86	85	75	72
+212	682	Spritzee	['fairy']	['Healer', 'Aroma Veil']	78	52	60	63	65	23
+213	683	Aromatisse	['fairy']	['Healer', 'Aroma Veil']	101	72	72	99	89	29
+214	751	Dewpider	['water', 'bug']	['Water Bubble', 'Water Absorb']	38	40	52	40	72	27
+215	752	Araquanid	['water', 'bug']	['Water Bubble', 'Water Absorb']	68	70	92	50	132	42
+216	360	Wynaut	['psychic']	['Shadow Tag', 'Telepathy']	95	23	48	23	48	23
+217	202	Wobbuffet	['psychic']	['Shadow Tag', 'Telepathy']	190	33	58	33	58	33
+218	3-g	Farfetch'd	['fighting']	['Steadfast', 'Scrappy']	52	95	55	58	62	55
+219	865	Sirfetch'd	['fighting']	['Steadfast', 'Scrappy']	62	135	95	68	82	65
+220	170	Chinchou	['water', 'electric']	['Volt Absorb', 'Illuminate', 'Water Absorb']	75	38	38	56	56	67
+221	171	Lanturn	['water', 'electric']	['Volt Absorb', 'Illuminate', 'Water Absorb']	125	58	58	76	76	67
+222	453	Croagunk	['poison', 'fighting']	['Anticipation', 'Dry Skin', 'Poison Touch']	48	61	40	61	40	50
+223	454	Toxicroak	['poison', 'fighting']	['Anticipation', 'Dry Skin', 'Poison Touch']	83	106	65	86	65	85
+224	559	Scraggy	['dark', 'fighting']	['Shed Skin', 'Moxie', 'Intimidate']	50	75	70	35	70	48
+225	560	Scrafty	['dark', 'fighting']	['Shed Skin', 'Moxie', 'Intimidate']	65	90	115	45	115	58
+226	8-g	Stunfisk	['ground', 'steel']	['Mimicry']	109	81	99	66	84	32
+227	213	Shuckle	['bug', 'rock']	['Sturdy', 'Gluttony', 'Contrary']	20	10	230	10	230	5
+228	339	Barboach	['water', 'ground']	['Oblivious', 'Anticipation', 'Hydration']	50	48	43	46	41	60
+229	340	Whiscash	['water', 'ground']	['Oblivious', 'Anticipation', 'Hydration']	110	78	73	76	71	60
+230	422	Shellos	['water']	['Sticky Hold', 'Storm Drain', 'Sand Force']	76	48	48	57	62	34
+231	423	Gastrodon	['water', 'ground']	['Sticky Hold', 'Storm Drain', 'Sand Force']	111	83	68	92	82	39
+232	767	Wimpod	['bug', 'water']	['Wimp Out']	25	35	40	20	30	80
+233	768	Golisopod	['bug', 'water']	['Emergency Exit']	75	125	140	60	90	40
+234	688	Binacle	['rock', 'water']	['Tough Claws', 'Sniper', 'Pickpocket']	42	52	67	39	56	50
+235	689	Barbaracle	['rock', 'water']	['Tough Claws', 'Sniper', 'Pickpocket']	72	105	115	54	86	68
+236	2-g	Corsola	['ghost']	['Weak Armor', 'Cursed Body']	60	55	100	65	100	30
+237	864	Cursola	['ghost']	['Weak Armor', 'Perish Body']	60	95	50	145	130	30
+238	859	Impidimp	['dark', 'fairy']	['Prankster', 'Frisk', 'Pickpocket']	45	45	30	55	40	50
+239	860	Morgrem	['dark', 'fairy']	['Prankster', 'Frisk', 'Pickpocket']	65	60	45	75	55	70
+240	861	Grimmsnarl	['dark', 'fairy']	['Prankster', 'Frisk', 'Pickpocket']	95	120	65	95	75	60
+241	856	Hatenna	['psychic']	['Healer', 'Anticipation', 'Magic Bounce']	42	30	45	56	53	39
+242	857	Hattrem	['psychic']	['Healer', 'Anticipation', 'Magic Bounce']	57	40	65	86	73	49
+243	858	Hatterene	['psychic', 'fairy']	['Healer', 'Anticipation', 'Magic Bounce']	57	90	95	136	103	29
+244	757	Salandit	['poison', 'fire']	['Corrosion', 'Oblivious']	48	44	40	71	40	77
+245	758	Salazzle	['poison', 'fire']	['Corrosion', 'Oblivious']	68	64	60	111	60	117
+246	624	Pawniard	['dark', 'steel']	['Defiant', 'Inner Focus', 'Pressure']	45	85	70	40	40	60
+247	625	Bisharp	['dark', 'steel']	['Defiant', 'Inner Focus', 'Pressure']	65	125	100	60	70	70
+248	538	Throh	['fighting']	['Guts', 'Inner Focus', 'Mold Breaker']	120	100	85	30	85	45
+249	539	Sawk	['fighting']	['Sturdy', 'Inner Focus', 'Mold Breaker']	75	125	75	30	75	85
+250	109	Koffing	['poison']	['Levitate', 'Neutralizing Gas', 'Stench']	40	65	95	60	45	35
+251	0-g	Weezing	['poison', 'fairy']	['Levitate', 'Neutralizing Gas', 'Misty Surge']	65	90	120	85	70	60
+252	438	Bonsly	['rock']	['Sturdy', 'Rock Head', 'Rattled']	50	80	95	10	45	10
+253	185	Sudowoodo	['rock']	['Sturdy', 'Rock Head', 'Rattled']	70	100	115	30	65	30
+254	173	Cleffa	['fairy']	['Cute Charm', 'Magic Guard', 'Friend Guard']	50	25	28	45	55	15
+255	035	Clefairy	['fairy']	['Cute Charm', 'Magic Guard', 'Friend Guard']	70	45	48	60	65	35
+256	036	Clefable	['fairy']	['Cute Charm', 'Magic Guard', 'Unaware']	95	70	73	95	90	60
+257	175	Togepi	['fairy']	['Hustle', 'Serene Grace', 'Super Luck']	35	20	65	40	65	20
+258	176	Togetic	['fairy', 'flying']	['Hustle', 'Serene Grace', 'Super Luck']	55	40	85	80	105	40
+259	468	Togekiss	['fairy', 'flying']	['Hustle', 'Serene Grace', 'Super Luck']	85	50	95	120	115	80
+260	446	Munchlax	['normal']	['Pickup', 'Thick Fat', 'Gluttony']	135	85	40	40	85	5
+261	143	Snorlax	['normal']	['Immunity', 'Thick Fat', 'Gluttony']	160	110	65	65	110	30
+262	546	Cottonee	['grass', 'fairy']	['Prankster', 'Infiltrator', 'Chlorophyll']	40	27	60	37	50	66
+263	547	Whimsicott	['grass', 'fairy']	['Prankster', 'Infiltrator', 'Chlorophyll']	60	67	85	77	75	116
+264	111	Rhyhorn	['ground', 'rock']	['Lightning Rod', 'Rock Head', 'Reckless']	80	85	95	30	30	25
+265	112	Rhydon	['ground', 'rock']	['Lightning Rod', 'Rock Head', 'Reckless']	105	130	120	45	45	40
+266	464	Rhyperior	['ground', 'rock']	['Lightning Rod', 'Solid Rock', 'Reckless']	115	140	130	55	55	40
+267	574	Gothita	['psychic']	['Frisk', 'Competitive', 'Shadow Tag']	45	30	50	55	65	45
+268	575	Gothorita	['psychic']	['Frisk', 'Competitive', 'Shadow Tag']	60	45	70	75	85	55
+269	576	Gothitelle	['psychic']	['Frisk', 'Competitive', 'Shadow Tag']	70	55	95	95	110	65
+270	577	Solosis	['psychic']	['Overcoat', 'Magic Guard', 'Regenerator']	45	30	40	105	50	20
+271	578	Duosion	['psychic']	['Overcoat', 'Magic Guard', 'Regenerator']	65	40	50	125	60	30
+272	579	Reuniclus	['psychic']	['Overcoat', 'Magic Guard', 'Regenerator']	110	65	75	125	85	30
+273	588	Karrablast	['bug']	['Swarm', 'Shed Skin', 'No Guard']	50	75	45	40	45	60
+274	589	Escavalier	['bug', 'steel']	['Swarm', 'Shell Armor', 'Overcoat']	70	135	105	60	105	20
+275	616	Shelmet	['bug']	['Hydration', 'Shell Armor', 'Overcoat']	50	40	85	40	65	25
+276	617	Accelgor	['bug']	['Hydration', 'Sticky Hold', 'Unburden']	80	70	40	100	60	145
+277	605	Elgyem	['psychic']	['Telepathy', 'Synchronize', 'Analytic']	55	55	55	85	55	30
+278	606	Beheeyem	['psychic']	['Telepathy', 'Synchronize', 'Analytic']	75	75	75	125	95	40
+279	613	Cubchoo	['ice']	['Snow Cloak', 'Slush Rush', 'Rattled']	55	70	40	60	40	40
+280	614	Beartic	['ice']	['Snow Cloak', 'Slush Rush', 'Swift Swim']	95	130	80	70	80	50
+281	627	Rufflet	['normal', 'flying']	['Keen Eye', 'Sheer Force', 'Hustle']	70	83	50	37	50	60
+282	628	Braviary	['normal', 'flying']	['Keen Eye', 'Sheer Force', 'Defiant']	100	123	75	57	75	80
+283	629	Vullaby	['dark', 'flying']	['Big Pecks', 'Overcoat', 'Weak Armor']	70	55	75	45	65	60
+284	630	Mandibuzz	['dark', 'flying']	['Big Pecks', 'Overcoat', 'Weak Armor']	110	65	105	55	95	80
+285	451	Skorupi	['poison', 'bug']	['Battle Armor', 'Sniper', 'Keen Eye']	40	50	90	30	55	65
+286	452	Drapion	['poison', 'dark']	['Battle Armor', 'Sniper', 'Keen Eye']	70	90	110	60	75	95
+287	607	Litwick	['ghost', 'fire']	['Flash Fire', 'Flame Body', 'Infiltrator']	50	30	55	65	55	20
+288	608	Lampent	['ghost', 'fire']	['Flash Fire', 'Flame Body', 'Infiltrator']	60	40	60	95	60	55
+289	609	Chandelure	['ghost', 'fire']	['Flash Fire', 'Flame Body', 'Infiltrator']	60	55	90	145	90	80
+290	686	Inkay	['dark', 'psychic']	['Contrary', 'Suction Cups', 'Infiltrator']	53	54	53	37	46	45
+291	687	Malamar	['dark', 'psychic']	['Contrary', 'Suction Cups', 'Infiltrator']	86	92	88	68	75	73
+292	215	Sneasel	['dark', 'ice']	['Inner Focus', 'Keen Eye', 'Pickpocket']	55	95	55	35	75	115
+293	461	Weavile	['dark', 'ice']	['Pressure', 'Pickpocket']	70	120	65	45	85	125
+294	302	Sableye	['dark', 'ghost']	['Keen Eye', 'Stall', 'Prankster']	50	75	75	65	65	50
+295	303	Mawile	['steel', 'fairy']	['Hyper Cutter', 'Intimidate', 'Sheer Force']	50	85	85	55	55	50
+296	556	Maractus	['grass']	['Water Absorb', 'Chlorophyll', 'Storm Drain']	75	86	67	106	67	60
+297	561	Sigilyph	['psychic', 'flying']	['Wonder Skin ', 'Magic Guard', 'Tinted Lens']	72	58	80	103	80	97
+298	447	Riolu	['fighting']	['Steadfast', 'Inner Focus', 'Prankster']	40	70	40	35	40	60
+299	448	Lucario	['fighting', 'steel']	['Steadfast', 'Inner Focus', 'Justified']	70	110	70	115	70	90
+300	324	Torkoal	['fire']	['White Smoke', 'Drought', 'Shell Armor']	70	85	140	85	70	20
+301	778	Mimikyu	['ghost', 'fairy']	['Disguise']	55	90	80	50	105	96
+302	878	Cufant	['steel']	['Sheer Force', 'Heavy Metal']	72	80	49	40	49	40
+303	879	Copperajah	['steel']	['Sheer Force', 'Heavy Metal']	122	130	69	80	69	30
+304	211	Qwilfish	['water', 'poison']	['Poison Point', 'Swift Swim', 'Intimidate']	65	95	85	55	55	85
+305	592	Frillish	['water', 'ghost']	['Water Absorb', 'Cursed Body', 'Damp']	55	40	50	65	85	40
+306	593	Jellicent	['water', 'ghost']	['Water Absorb', 'Cursed Body', 'Damp']	100	60	70	85	105	60
+307	747	Mareanie	['poison', 'water']	['Merciless', 'Limber', 'Regenerator']	50	53	62	43	52	45
+308	748	Toxapex	['poison', 'water']	['Merciless', 'Limber', 'Regenerator']	50	63	152	53	142	35
+309	845	Cramorant	['flying', 'water']	['Gulp Missile']	70	85	55	85	95	85
+310	848	Toxel	['electric', 'poison']	['Rattled', 'Static', 'Klutz']	40	38	35	54	35	40
+311	849	Toxtricity	['electric', 'poison']	['Punk Rock', 'Plus', 'Technician']	75	98	70	114	70	75
+312	843	Silicobra	['ground']	['Sand Spit', 'Shed Skin', 'Sand Veil']	52	57	75	35	50	46
+313	844	Sandaconda	['ground']	['Sand Spit', 'Shed Skin', 'Sand Veil']	72	107	125	65	70	71
+314	449	Hippopotas	['ground']	['Sand Stream', 'Sand Force']	68	72	78	38	42	32
+315	450	Hippowdon	['ground']	['Sand Stream', 'Sand Force']	108	112	118	68	72	47
+316	632	Durant	['bug', 'steel']	['Swarm', 'Hustle', 'Truant']	58	109	112	48	48	109
+317	631	Heatmor	['fire']	['Gluttony', 'Flash Fire', 'White Smoke']	85	97	66	105	66	65
+318	694	Helioptile	['electric', 'normal']	['Dry Skin', 'Sand Veil', 'Solar Power']	44	38	33	61	43	70
+319	695	Heliolisk	['electric', 'normal']	['Dry Skin', 'Sand Veil', 'Solar Power']	62	55	52	109	94	109
+320	701	Hawlucha	['fighting', 'flying']	['Limber', 'Unburden', 'Mold Breaker']	78	92	75	74	63	118
+321	328	Trapinch	['ground']	['Hyper Cutter', 'Arena Trap', 'Sheer Force']	45	100	45	45	45	10
+322	329	Vibrava	['ground', 'dragon']	['Levitate']	50	70	50	50	50	70
+323	330	Flygon	['ground', 'dragon']	['Levitate']	80	100	80	80	80	100
+324	610	Axew	['dragon']	['Rivalry', 'Mold Breaker', 'Unnerve']	46	87	60	30	40	57
+325	611	Fraxure	['dragon']	['Rivalry', 'Mold Breaker', 'Unnerve']	66	117	70	40	50	67
+326	612	Haxorus	['dragon']	['Rivalry', 'Mold Breaker', 'Unnerve']	76	147	90	60	70	97
+327	2-g	Yamask	['ground', 'ghost']	['Wandering Spirit']	38	55	85	30	65	30
+328	867	Runerigus	['ground', 'ghost']	['Wandering Spirit']	58	95	145	50	105	30
+329	563	Cofagrigus	['ghost']	['Mummy']	58	50	145	95	105	30
+330	679	Honedge	['steel', 'ghost']	['No Guard']	45	80	100	35	37	28
+331	680	Doublade	['steel', 'ghost']	['No Guard']	59	110	150	45	49	35
+332	681	Aegislash	['steel', 'ghost']	['Stance Change']	60	50	140	50	140	60
+333	7-g	Ponyta	['psychic']	['Run Away', 'Pastel Veil', 'Anticipation']	50	85	55	65	65	90
+334	8-g	Rapidash	['psychic', 'fairy']	['Run Away', 'Pastel Veil', 'Anticipation']	65	100	70	80	80	105
+335	854	Sinistea	['ghost']	['Weak Armor', 'Cursed Body']	40	45	45	74	54	50
+336	855	Polteageist	['ghost']	['Weak Armor', 'Cursed Body']	60	65	65	134	114	70
+337	876	Indeedee	['psychic', 'normal']	['Inner Focus', 'Synchronize', 'Psychic Surge']	60	65	55	105	95	95
+338	708	Phantump	['ghost', 'grass']	['Natural Cure', 'Frisk', 'Harvest']	43	70	48	50	60	38
+339	709	Trevenant	['ghost', 'grass']	['Natural Cure', 'Frisk', 'Harvest']	85	110	76	65	82	56
+340	755	Morelull	['grass', 'fairy']	['Illuminate', 'Effect Spore', 'Rain Dish']	40	35	55	65	75	15
+341	756	Shiinotic	['grass', 'fairy']	['Illuminate', 'Effect Spore', 'Rain Dish']	60	45	80	90	100	30
+342	765	Oranguru	['normal', 'psychic']	['Inner Focus', 'Telepathy', 'Symbiosis']	90	60	80	90	110	60
+343	766	Passimian	['fighting']	['Receiver', 'Defiant']	100	120	90	40	60	80
+344	877	Morpeko	['electric', 'dark']	['Hunger Switch']	58	95	58	70	58	97
+345	870	Falinks	['fighting']	['Battle Armor', 'Defiant']	65	100	100	70	60	75
+346	780	Drampa	['normal', 'dragon']	['Berserk', 'Sap Sipper', 'Cloud Nine']	78	60	85	135	91	36
+347	776	Turtonator	['fire', 'dragon']	['Shell Armor']	60	78	135	91	85	36
+348	777	Togedemaru	['electric', 'steel']	['Iron Barbs', 'Lightning Rod', 'Sturdy']	65	98	63	40	73	96
+349	872	Snom	['ice', 'bug']	['Shield Dust', 'Ice Scales']	30	25	35	45	30	20
+350	873	Frosmoth	['ice', 'bug']	['Shield Dust', 'Ice Scales']	70	65	60	125	90	65
+351	852	Clobbopus	['fighting']	['Limber', 'Technician']	50	68	60	50	50	32
+352	853	Grapploct	['fighting']	['Limber', 'Technician']	80	118	90	70	80	42
+353	871	Pincurchin	['electric']	['Lightning Rod', 'Electric Surge']	48	101	95	91	85	15
+354	458	Mantyke	['water', 'flying']	['Swift Swim', 'Water Absorb', 'Water Veil']	45	20	50	60	120	50
+355	226	Mantine	['water', 'flying']	['Swift Swim', 'Water Absorb', 'Water Veil']	85	40	70	80	140	70
+356	320	Wailmer	['water']	['Water Veil', 'Oblivious', 'Pressure']	130	70	35	70	35	60
+357	321	Wailord	['water']	['Water Veil', 'Oblivious', 'Pressure']	170	90	45	90	45	60
+358	712	Bergmite	['ice']	['Own Tempo', 'Ice Body', 'Sturdy']	55	69	85	32	35	28
+359	713	Avalugg	['ice']	['Own Tempo', 'Ice Body', 'Sturdy']	95	117	184	44	46	28
+360	781	Dhelmise	['ghost', 'grass']	['Steelworker']	70	131	100	86	90	40
+361	131	Lapras	['water', 'ice']	['Water Absorb', 'Shell Armor', 'Hydration']	130	85	80	85	95	60
+362	337	Lunatone	['rock', 'psychic']	['Levitate']	90	55	65	95	85	70
+363	338	Solrock	['rock', 'psychic']	['Levitate']	90	95	85	55	65	70
+364	439	Mime Jr.	['psychic', 'fairy']	['Soundproof', 'Filter', 'Technician']	20	25	45	70	90	60
+365	2-g	Mr. Mime	['ice', 'psychic']	['Vital Spirit', 'Screen Cleaner', 'Ice Body']	50	65	65	90	90	100
+366	866	Mr. Rime	['ice', 'psychic']	['Tangled Feet', 'Screen Cleaner', 'Ice Body']	80	85	75	110	100	70
+367	4-g	Darumaka	['ice']	['Hustle', 'Inner Focus']	70	90	45	15	45	50
+368	5-g	Darmanitan	['ice']	['Gorilla Tactics', 'Zen Mode']	105	140	55	30	55	95
+369	874	Stonjourner	['rock']	['Power Spot']	100	125	135	20	20	70
+370	875	Eiscue	['ice']	['Ice Face']	75	80	110	65	90	50
+371	884	Duraludon	['steel', 'dragon']	['Light Metal', 'Heavy Metal', 'Stalwart']	70	95	115	120	50	85
+372	479	Rotom	['electric', 'ghost']	['Levitate']	50	50	77	95	77	91
+373	132	Ditto	['normal']	['Limber', 'Imposter']	48	48	48	48	48	48
+374	880	Dracozolt	['electric', 'dragon']	['Volt Absorb', 'Hustle', 'Sand Rush']	90	100	90	80	70	75
+375	881	Arctozolt	['electric', 'ice']	['Volt Absorb', 'Static', 'Slush Rush']	90	100	90	90	80	55
+376	882	Dracovish	['water', 'dragon']	['Water Absorb', 'Strong Jaw', 'Sand Rush']	90	90	100	70	80	75
+377	883	Arctovish	['water', 'ice']	['Water Absorb', 'Ice Body', 'Slush Rush']	90	90	100	80	90	55
+378	004	Charmander	['fire']	['Blaze', 'Solar Power']	39	52	43	60	50	65
+379	005	Charmeleon	['fire']	['Blaze', 'Solar Power']	58	64	58	80	65	80
+380	006	Charizard	['fire', 'flying']	['Blaze', 'Solar Power']	78	84	78	109	85	100
+381	772	Type: Null	['normal']	['Battle Armor']	95	95	95	95	95	59
+382	773	Silvally	['normal']	['RKS System']	95	95	95	95	95	95
+383	246	Larvitar	['rock', 'ground']	['Guts', 'Sand Veil']	50	64	50	45	50	41
+384	247	Pupitar	['rock', 'ground']	['Shed Skin']	70	84	70	65	70	51
+385	248	Tyranitar	['rock', 'dark']	['Sand Stream', 'Unnerve']	100	134	110	95	100	61
+386	633	Deino	['dark', 'dragon']	['Hustle']	52	65	50	45	50	38
+387	634	Zweilous	['dark', 'dragon']	['Hustle']	72	85	70	65	70	58
+388	635	Hydreigon	['dark', 'dragon']	['Levitate']	92	105	90	125	90	98
+389	704	Goomy	['dragon']	['Sap Sipper', 'Hydration', 'Gooey']	45	50	35	55	75	40
+390	705	Sliggoo	['dragon']	['Sap Sipper', 'Hydration', 'Gooey']	68	75	53	83	113	60
+391	706	Goodra	['dragon']	['Sap Sipper', 'Hydration', 'Gooey']	90	100	70	110	150	80
+392	782	Jangmo-o	['dragon']	['Bulletproof', 'Soundproof', 'Overcoat']	45	55	65	45	45	45
+393	783	Hakamo-o	['dragon', 'fighting']	['Bulletproof', 'Soundproof', 'Overcoat']	55	75	90	65	70	65
+394	784	Kommo-o	['dragon', 'fighting']	['Bulletproof', 'Soundproof', 'Overcoat']	75	110	125	100	105	85
+395	885	Dreepy	['dragon', 'ghost']	['Clear Body', 'Infiltrator', 'Cursed Body']	28	60	30	40	30	82
+396	886	Drakloak	['dragon', 'ghost']	['Clear Body', 'Infiltrator', 'Cursed Body']	68	80	50	60	50	102
+397	887	Dragapult	['dragon', 'ghost']	['Clear Body', 'Infiltrator', 'Cursed Body']	88	120	75	100	75	142
+398	888	Zacian	['fairy']	['Intrepid Sword']	92	130	115	80	115	138
+399	889	Zamazenta	['fighting']	['Dauntless Shield']	92	130	115	80	115	138
+400	890	Eternatus	['poison', 'dragon']	['Pressure']	140	85	95	145	95	130
