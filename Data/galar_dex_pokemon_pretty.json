@@ -1,0 +1,7635 @@
+{
+    "pokemon": [
+        {
+            "abilities": [
+                "Overgrow",
+                "Grassy Surge"
+            ],
+            "att": "65",
+            "def": "50",
+            "galar_dex_num": "001",
+            "hp": "50",
+            "name": "Grookey",
+            "national_dex_num": "810",
+            "s_att": "40",
+            "s_def": "40",
+            "spd": "65",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Overgrow",
+                "Grassy Surge"
+            ],
+            "att": "85",
+            "def": "70",
+            "galar_dex_num": "002",
+            "hp": "70",
+            "name": "Thwackey",
+            "national_dex_num": "811",
+            "s_att": "55",
+            "s_def": "60",
+            "spd": "80",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Overgrow",
+                "Grassy Surge"
+            ],
+            "att": "125",
+            "def": "90",
+            "galar_dex_num": "003",
+            "hp": "100",
+            "name": "Rillaboom",
+            "national_dex_num": "812",
+            "s_att": "60",
+            "s_def": "70",
+            "spd": "85",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Blaze",
+                "Libero"
+            ],
+            "att": "71",
+            "def": "40",
+            "galar_dex_num": "004",
+            "hp": "50",
+            "name": "Scorbunny",
+            "national_dex_num": "813",
+            "s_att": "40",
+            "s_def": "40",
+            "spd": "69",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Blaze",
+                "Libero"
+            ],
+            "att": "86",
+            "def": "60",
+            "galar_dex_num": "005",
+            "hp": "65",
+            "name": "Raboot",
+            "national_dex_num": "814",
+            "s_att": "55",
+            "s_def": "60",
+            "spd": "94",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Blaze",
+                "Libero"
+            ],
+            "att": "116",
+            "def": "75",
+            "galar_dex_num": "006",
+            "hp": "80",
+            "name": "Cinderace",
+            "national_dex_num": "815",
+            "s_att": "65",
+            "s_def": "75",
+            "spd": "119",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Torrent",
+                "Sniper"
+            ],
+            "att": "40",
+            "def": "40",
+            "galar_dex_num": "007",
+            "hp": "50",
+            "name": "Sobble",
+            "national_dex_num": "816",
+            "s_att": "70",
+            "s_def": "40",
+            "spd": "70",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Torrent",
+                "Sniper"
+            ],
+            "att": "60",
+            "def": "55",
+            "galar_dex_num": "008",
+            "hp": "65",
+            "name": "Drizzile",
+            "national_dex_num": "817",
+            "s_att": "95",
+            "s_def": "55",
+            "spd": "90",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Torrent",
+                "Sniper"
+            ],
+            "att": "85",
+            "def": "65",
+            "galar_dex_num": "009",
+            "hp": "70",
+            "name": "Inteleon",
+            "national_dex_num": "818",
+            "s_att": "125",
+            "s_def": "65",
+            "spd": "120",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Swarm",
+                "Compoundeyes",
+                "Telepathy"
+            ],
+            "att": "20",
+            "def": "20",
+            "galar_dex_num": "010",
+            "hp": "25",
+            "name": "Blipbug",
+            "national_dex_num": "824",
+            "s_att": "25",
+            "s_def": "45",
+            "spd": "45",
+            "type": [
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Swarm",
+                "Compoundeyes",
+                "Telepathy"
+            ],
+            "att": "35",
+            "def": "80",
+            "galar_dex_num": "011",
+            "hp": "50",
+            "name": "Dottler",
+            "national_dex_num": "825",
+            "s_att": "50",
+            "s_def": "90",
+            "spd": "30",
+            "type": [
+                "bug",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Swarm",
+                "Frisk",
+                "Telepathy"
+            ],
+            "att": "45",
+            "def": "110",
+            "galar_dex_num": "012",
+            "hp": "60",
+            "name": "Orbeetle",
+            "national_dex_num": "826",
+            "s_att": "80",
+            "s_def": "120",
+            "spd": "90",
+            "type": [
+                "bug",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Shield Dust",
+                "Run Away"
+            ],
+            "att": "30",
+            "def": "35",
+            "galar_dex_num": "013",
+            "hp": "45",
+            "name": "Caterpie",
+            "national_dex_num": "010",
+            "s_att": "20",
+            "s_def": "20",
+            "spd": "45",
+            "type": [
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Shed Skin"
+            ],
+            "att": "20",
+            "def": "55",
+            "galar_dex_num": "014",
+            "hp": "50",
+            "name": "Metapod",
+            "national_dex_num": "011",
+            "s_att": "25",
+            "s_def": "25",
+            "spd": "30",
+            "type": [
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Compoundeyes",
+                "Tinted Lens"
+            ],
+            "att": "45",
+            "def": "50",
+            "galar_dex_num": "015",
+            "hp": "60",
+            "name": "Butterfree",
+            "national_dex_num": "012",
+            "s_att": "90",
+            "s_def": "80",
+            "spd": "70",
+            "type": [
+                "bug",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Swarm"
+            ],
+            "att": "62",
+            "def": "45",
+            "galar_dex_num": "016",
+            "hp": "47",
+            "name": "Grubbin",
+            "national_dex_num": "736",
+            "s_att": "55",
+            "s_def": "45",
+            "spd": "46",
+            "type": [
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Battery"
+            ],
+            "att": "82",
+            "def": "95",
+            "galar_dex_num": "017",
+            "hp": "57",
+            "name": "Charjabug",
+            "national_dex_num": "737",
+            "s_att": "55",
+            "s_def": "75",
+            "spd": "36",
+            "type": [
+                "bug",
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "70",
+            "def": "90",
+            "galar_dex_num": "018",
+            "hp": "77",
+            "name": "Vikavolt",
+            "national_dex_num": "738",
+            "s_att": "145",
+            "s_def": "75",
+            "spd": "43",
+            "type": [
+                "bug",
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Insomnia",
+                "Keen Eye",
+                "Tinted Lens"
+            ],
+            "att": "30",
+            "def": "30",
+            "galar_dex_num": "019",
+            "hp": "60",
+            "name": "Hoothoot",
+            "national_dex_num": "163",
+            "s_att": "36",
+            "s_def": "56",
+            "spd": "50",
+            "type": [
+                "normal",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Insomnia",
+                "Keen Eye",
+                "Tinted Lens"
+            ],
+            "att": "50",
+            "def": "50",
+            "galar_dex_num": "020",
+            "hp": "100",
+            "name": "Noctowl",
+            "national_dex_num": "164",
+            "s_att": "86",
+            "s_def": "96",
+            "spd": "70",
+            "type": [
+                "normal",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Keen Eye",
+                "Unnerve",
+                "Big Pecks"
+            ],
+            "att": "47",
+            "def": "35",
+            "galar_dex_num": "021",
+            "hp": "38",
+            "name": "Rookidee",
+            "national_dex_num": "821",
+            "s_att": "33",
+            "s_def": "35",
+            "spd": "57",
+            "type": [
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Keen Eye",
+                "Unnerve",
+                "Big Pecks"
+            ],
+            "att": "67",
+            "def": "55",
+            "galar_dex_num": "022",
+            "hp": "68",
+            "name": "Corvisquire",
+            "national_dex_num": "822",
+            "s_att": "43",
+            "s_def": "55",
+            "spd": "77",
+            "type": [
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Pressure",
+                "Unnerve",
+                "Mirror Armor"
+            ],
+            "att": "87",
+            "def": "105",
+            "galar_dex_num": "023",
+            "hp": "98",
+            "name": "Corviknight",
+            "national_dex_num": "823",
+            "s_att": "53",
+            "s_def": "85",
+            "spd": "67",
+            "type": [
+                "flying",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Cheek Pouch",
+                "Gluttony"
+            ],
+            "att": "55",
+            "def": "55",
+            "galar_dex_num": "024",
+            "hp": "70",
+            "name": "Skwovet",
+            "national_dex_num": "819",
+            "s_att": "35",
+            "s_def": "35",
+            "spd": "25",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Cheek Pouch",
+                "Gluttony"
+            ],
+            "att": "95",
+            "def": "95",
+            "galar_dex_num": "025",
+            "hp": "120",
+            "name": "Greedent",
+            "national_dex_num": "820",
+            "s_att": "55",
+            "s_def": "75",
+            "spd": "20",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Big Pecks",
+                "Super Luck",
+                "Rivalry"
+            ],
+            "att": "55",
+            "def": "50",
+            "galar_dex_num": "026",
+            "hp": "50",
+            "name": "Pidove",
+            "national_dex_num": "519",
+            "s_att": "36",
+            "s_def": "30",
+            "spd": "43",
+            "type": [
+                "normal",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Big Pecks",
+                "Super Luck",
+                "Rivalry"
+            ],
+            "att": "77",
+            "def": "62",
+            "galar_dex_num": "027",
+            "hp": "62",
+            "name": "Tranquill",
+            "national_dex_num": "520",
+            "s_att": "50",
+            "s_def": "42",
+            "spd": "65",
+            "type": [
+                "normal",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Big Pecks",
+                "Super Luck",
+                "Rivalry"
+            ],
+            "att": "115",
+            "def": "80",
+            "galar_dex_num": "028",
+            "hp": "80",
+            "name": "Unfezant",
+            "national_dex_num": "521",
+            "s_att": "65",
+            "s_def": "55",
+            "spd": "93",
+            "type": [
+                "normal",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Run Away",
+                "Unburden",
+                "Stakeout"
+            ],
+            "att": "28",
+            "def": "28",
+            "galar_dex_num": "029",
+            "hp": "40",
+            "name": "Nickit",
+            "national_dex_num": "827",
+            "s_att": "47",
+            "s_def": "52",
+            "spd": "50",
+            "type": [
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Run Away",
+                "Unburden",
+                "Stakeout"
+            ],
+            "att": "58",
+            "def": "58",
+            "galar_dex_num": "030",
+            "hp": "70",
+            "name": "Thievul",
+            "national_dex_num": "828",
+            "s_att": "87",
+            "s_def": "92",
+            "spd": "90",
+            "type": [
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Pickup",
+                "Gluttony",
+                "Quick Feet"
+            ],
+            "att": "30",
+            "def": "41",
+            "galar_dex_num": "031",
+            "hp": "38",
+            "name": "Zigzagoon",
+            "national_dex_num": "3-g",
+            "s_att": "30",
+            "s_def": "41",
+            "spd": "60",
+            "type": [
+                "dark",
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Pickup",
+                "Gluttony",
+                "Quick Feet"
+            ],
+            "att": "70",
+            "def": "61",
+            "galar_dex_num": "032",
+            "hp": "78",
+            "name": "Linoone",
+            "national_dex_num": "4-g",
+            "s_att": "50",
+            "s_def": "61",
+            "spd": "100",
+            "type": [
+                "dark",
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Reckless",
+                "Guts",
+                "Defiant"
+            ],
+            "att": "90",
+            "def": "101",
+            "galar_dex_num": "033",
+            "hp": "93",
+            "name": "Obstagoon",
+            "national_dex_num": "862",
+            "s_att": "60",
+            "s_def": "81",
+            "spd": "95",
+            "type": [
+                "dark",
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Fluffy",
+                "Run Away",
+                "Bulletproof"
+            ],
+            "att": "40",
+            "def": "55",
+            "galar_dex_num": "034",
+            "hp": "42",
+            "name": "Wooloo",
+            "national_dex_num": "831",
+            "s_att": "40",
+            "s_def": "45",
+            "spd": "48",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Fluffy",
+                "Steadfast",
+                "Bulletproof"
+            ],
+            "att": "80",
+            "def": "100",
+            "galar_dex_num": "035",
+            "hp": "72",
+            "name": "Dubwool",
+            "national_dex_num": "832",
+            "s_att": "60",
+            "s_def": "90",
+            "spd": "88",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Rain Dish",
+                "Own Tempo"
+            ],
+            "att": "30",
+            "def": "30",
+            "galar_dex_num": "036",
+            "hp": "40",
+            "name": "Lotad",
+            "national_dex_num": "270",
+            "s_att": "40",
+            "s_def": "50",
+            "spd": "30",
+            "type": [
+                "water",
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Rain Dish",
+                "Own Tempo"
+            ],
+            "att": "50",
+            "def": "50",
+            "galar_dex_num": "037",
+            "hp": "60",
+            "name": "Lombre",
+            "national_dex_num": "271",
+            "s_att": "60",
+            "s_def": "70",
+            "spd": "50",
+            "type": [
+                "water",
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Rain Dish",
+                "Own Tempo"
+            ],
+            "att": "70",
+            "def": "70",
+            "galar_dex_num": "038",
+            "hp": "80",
+            "name": "Ludicolo",
+            "national_dex_num": "272",
+            "s_att": "90",
+            "s_def": "100",
+            "spd": "70",
+            "type": [
+                "water",
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Chlorophyll",
+                "Early Bird",
+                "Pickpocket"
+            ],
+            "att": "40",
+            "def": "50",
+            "galar_dex_num": "039",
+            "hp": "40",
+            "name": "Seedot",
+            "national_dex_num": "273",
+            "s_att": "30",
+            "s_def": "30",
+            "spd": "30",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Chlorophyll",
+                "Early Bird",
+                "Pickpocket"
+            ],
+            "att": "70",
+            "def": "40",
+            "galar_dex_num": "040",
+            "hp": "70",
+            "name": "Nuzleaf",
+            "national_dex_num": "274",
+            "s_att": "60",
+            "s_def": "40",
+            "spd": "60",
+            "type": [
+                "grass",
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Chlorophyll",
+                "Early Bird",
+                "Pickpocket"
+            ],
+            "att": "100",
+            "def": "60",
+            "galar_dex_num": "041",
+            "hp": "90",
+            "name": "Shiftry",
+            "national_dex_num": "275",
+            "s_att": "90",
+            "s_def": "60",
+            "spd": "80",
+            "type": [
+                "grass",
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Strong Jaw",
+                "Shell Armor",
+                "Swift Swim"
+            ],
+            "att": "64",
+            "def": "50",
+            "galar_dex_num": "042",
+            "hp": "50",
+            "name": "Chewtle",
+            "national_dex_num": "833",
+            "s_att": "38",
+            "s_def": "38",
+            "spd": "44",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Strong Jaw",
+                "Shell Armor",
+                "Swift Swim"
+            ],
+            "att": "115",
+            "def": "90",
+            "galar_dex_num": "043",
+            "hp": "90",
+            "name": "Drednaw",
+            "national_dex_num": "834",
+            "s_att": "48",
+            "s_def": "68",
+            "spd": "74",
+            "type": [
+                "water",
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Limber",
+                "Unburden",
+                "Prankster"
+            ],
+            "att": "50",
+            "def": "37",
+            "galar_dex_num": "044",
+            "hp": "41",
+            "name": "Purrloin",
+            "national_dex_num": "509",
+            "s_att": "50",
+            "s_def": "37",
+            "spd": "66",
+            "type": [
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Limber",
+                "Unburden",
+                "Prankster"
+            ],
+            "att": "88",
+            "def": "50",
+            "galar_dex_num": "045",
+            "hp": "64",
+            "name": "Liepard",
+            "national_dex_num": "510",
+            "s_att": "88",
+            "s_def": "50",
+            "spd": "106",
+            "type": [
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Ball Fetch",
+                "Rattled"
+            ],
+            "att": "45",
+            "def": "50",
+            "galar_dex_num": "046",
+            "hp": "59",
+            "name": "Yamper",
+            "national_dex_num": "835",
+            "s_att": "40",
+            "s_def": "50",
+            "spd": "26",
+            "type": [
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Strong Jaw",
+                "Competitive"
+            ],
+            "att": "90",
+            "def": "60",
+            "galar_dex_num": "047",
+            "hp": "69",
+            "name": "Boltund",
+            "national_dex_num": "836",
+            "s_att": "90",
+            "s_def": "60",
+            "spd": "121",
+            "type": [
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Pickup",
+                "Cheek Pouch",
+                "Huge Power"
+            ],
+            "att": "36",
+            "def": "38",
+            "galar_dex_num": "048",
+            "hp": "38",
+            "name": "Bunnelby",
+            "national_dex_num": "659",
+            "s_att": "32",
+            "s_def": "36",
+            "spd": "57",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Pickup",
+                "Cheek Pouch",
+                "Huge Power"
+            ],
+            "att": "56",
+            "def": "77",
+            "galar_dex_num": "049",
+            "hp": "85",
+            "name": "Diggersby",
+            "national_dex_num": "660",
+            "s_att": "50",
+            "s_def": "77",
+            "spd": "78",
+            "type": [
+                "normal",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Cute Charm",
+                "Technician",
+                "Skill Link"
+            ],
+            "att": "50",
+            "def": "40",
+            "galar_dex_num": "050",
+            "hp": "55",
+            "name": "Minccino",
+            "national_dex_num": "572",
+            "s_att": "40",
+            "s_def": "40",
+            "spd": "75",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Cute Charm",
+                "Technician",
+                "Skill Link"
+            ],
+            "att": "95",
+            "def": "60",
+            "galar_dex_num": "051",
+            "hp": "75",
+            "name": "Cinccino",
+            "national_dex_num": "573",
+            "s_att": "65",
+            "s_def": "60",
+            "spd": "115",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Leaf Guard",
+                "Oblivious",
+                "Sweet Veil"
+            ],
+            "att": "30",
+            "def": "38",
+            "galar_dex_num": "052",
+            "hp": "42",
+            "name": "Bounsweet",
+            "national_dex_num": "761",
+            "s_att": "30",
+            "s_def": "38",
+            "spd": "32",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Leaf Guard",
+                "Oblivious",
+                "Sweet Veil"
+            ],
+            "att": "40",
+            "def": "48",
+            "galar_dex_num": "053",
+            "hp": "52",
+            "name": "Steenee",
+            "national_dex_num": "762",
+            "s_att": "40",
+            "s_def": "48",
+            "spd": "62",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Leaf Guard",
+                "Queenly Majesty",
+                "Sweet Veil"
+            ],
+            "att": "120",
+            "def": "98",
+            "galar_dex_num": "054",
+            "hp": "72",
+            "name": "Tsareena",
+            "national_dex_num": "763",
+            "s_att": "50",
+            "s_def": "98",
+            "spd": "72",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Chlorophyll",
+                "Run Away"
+            ],
+            "att": "50",
+            "def": "55",
+            "galar_dex_num": "055",
+            "hp": "45",
+            "name": "Oddish",
+            "national_dex_num": "043",
+            "s_att": "75",
+            "s_def": "65",
+            "spd": "30",
+            "type": [
+                "grass",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Chlorophyll",
+                "Stench"
+            ],
+            "att": "65",
+            "def": "70",
+            "galar_dex_num": "056",
+            "hp": "60",
+            "name": "Gloom",
+            "national_dex_num": "044",
+            "s_att": "85",
+            "s_def": "75",
+            "spd": "40",
+            "type": [
+                "grass",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Chlorophyll",
+                "Effect Spore"
+            ],
+            "att": "80",
+            "def": "85",
+            "galar_dex_num": "057",
+            "hp": "75",
+            "name": "Vileplume",
+            "national_dex_num": "045",
+            "s_att": "110",
+            "s_def": "90",
+            "spd": "50",
+            "type": [
+                "grass",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Chlorophyll",
+                "Healer"
+            ],
+            "att": "80",
+            "def": "95",
+            "galar_dex_num": "058",
+            "hp": "75",
+            "name": "Bellossom",
+            "national_dex_num": "182",
+            "s_att": "90",
+            "s_def": "100",
+            "spd": "50",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Natural Cure",
+                "Poison Point",
+                "Leaf Guard"
+            ],
+            "att": "30",
+            "def": "35",
+            "galar_dex_num": "059",
+            "hp": "40",
+            "name": "Budew",
+            "national_dex_num": "406",
+            "s_att": "50",
+            "s_def": "70",
+            "spd": "55",
+            "type": [
+                "grass",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Natural Cure",
+                "Poison Point",
+                "Leaf Guard"
+            ],
+            "att": "60",
+            "def": "45",
+            "galar_dex_num": "060",
+            "hp": "50",
+            "name": "Roselia",
+            "national_dex_num": "315",
+            "s_att": "100",
+            "s_def": "80",
+            "spd": "65",
+            "type": [
+                "grass",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Natural Cure",
+                "Poison Point",
+                "Technician"
+            ],
+            "att": "70",
+            "def": "65",
+            "galar_dex_num": "061",
+            "hp": "60",
+            "name": "Roserade",
+            "national_dex_num": "407",
+            "s_att": "125",
+            "s_def": "105",
+            "spd": "90",
+            "type": [
+                "grass",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Keen Eye",
+                "Hydration",
+                "Rain Dish"
+            ],
+            "att": "30",
+            "def": "30",
+            "galar_dex_num": "062",
+            "hp": "40",
+            "name": "Wingull",
+            "national_dex_num": "278",
+            "s_att": "55",
+            "s_def": "30",
+            "spd": "85",
+            "type": [
+                "water",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Keen Eye",
+                "Drizzle",
+                "Rain Dish"
+            ],
+            "att": "50",
+            "def": "100",
+            "galar_dex_num": "063",
+            "hp": "60",
+            "name": "Pelipper",
+            "national_dex_num": "279",
+            "s_att": "95",
+            "s_def": "70",
+            "spd": "65",
+            "type": [
+                "water",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Compoundeyes",
+                "Unnerve",
+                "Swarm"
+            ],
+            "att": "47",
+            "def": "50",
+            "galar_dex_num": "064",
+            "hp": "50",
+            "name": "Joltik",
+            "national_dex_num": "595",
+            "s_att": "57",
+            "s_def": "50",
+            "spd": "65",
+            "type": [
+                "bug",
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Compoundeyes",
+                "Unnerve",
+                "Swarm"
+            ],
+            "att": "77",
+            "def": "60",
+            "galar_dex_num": "065",
+            "hp": "70",
+            "name": "Galvantula",
+            "national_dex_num": "596",
+            "s_att": "97",
+            "s_def": "60",
+            "spd": "108",
+            "type": [
+                "bug",
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Static",
+                "Lightning Rod",
+                "Minus"
+            ],
+            "att": "45",
+            "def": "40",
+            "galar_dex_num": "066",
+            "hp": "40",
+            "name": "Electrike",
+            "national_dex_num": "309",
+            "s_att": "65",
+            "s_def": "40",
+            "spd": "65",
+            "type": [
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Static",
+                "Lightning Rod",
+                "Minus"
+            ],
+            "att": "75",
+            "def": "60",
+            "galar_dex_num": "067",
+            "hp": "70",
+            "name": "Manectric",
+            "national_dex_num": "310",
+            "s_att": "105",
+            "s_def": "60",
+            "spd": "105",
+            "type": [
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Flash Fire",
+                "Drought"
+            ],
+            "att": "41",
+            "def": "40",
+            "galar_dex_num": "068",
+            "hp": "38",
+            "name": "Vulpix",
+            "national_dex_num": "037",
+            "s_att": "50",
+            "s_def": "65",
+            "spd": "65",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Flash Fire",
+                "Drought"
+            ],
+            "att": "76",
+            "def": "75",
+            "galar_dex_num": "069",
+            "hp": "73",
+            "name": "Ninetales",
+            "national_dex_num": "038",
+            "s_att": "81",
+            "s_def": "100",
+            "spd": "100",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Intimidate",
+                "Flash Fire",
+                "Justified"
+            ],
+            "att": "70",
+            "def": "45",
+            "galar_dex_num": "070",
+            "hp": "55",
+            "name": "Growlithe",
+            "national_dex_num": "058",
+            "s_att": "70",
+            "s_def": "50",
+            "spd": "60",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Intimidate",
+                "Flash Fire",
+                "Justified"
+            ],
+            "att": "110",
+            "def": "80",
+            "galar_dex_num": "071",
+            "hp": "90",
+            "name": "Arcanine",
+            "national_dex_num": "059",
+            "s_att": "100",
+            "s_def": "80",
+            "spd": "95",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Ice Body",
+                "Snow Cloak",
+                "Weak Armor"
+            ],
+            "att": "50",
+            "def": "50",
+            "galar_dex_num": "072",
+            "hp": "36",
+            "name": "Vanillite",
+            "national_dex_num": "582",
+            "s_att": "65",
+            "s_def": "60",
+            "spd": "44",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Ice Body",
+                "Snow Cloak",
+                "Weak Armor"
+            ],
+            "att": "65",
+            "def": "65",
+            "galar_dex_num": "073",
+            "hp": "51",
+            "name": "Vanillish",
+            "national_dex_num": "583",
+            "s_att": "80",
+            "s_def": "75",
+            "spd": "59",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Ice Body",
+                "Snow Warning",
+                "Weak Armor"
+            ],
+            "att": "95",
+            "def": "85",
+            "galar_dex_num": "074",
+            "hp": "71",
+            "name": "Vanilluxe",
+            "national_dex_num": "584",
+            "s_att": "110",
+            "s_def": "95",
+            "spd": "79",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Oblivious",
+                "Snow Cloak",
+                "Thick Fat"
+            ],
+            "att": "50",
+            "def": "40",
+            "galar_dex_num": "075",
+            "hp": "50",
+            "name": "Swinub",
+            "national_dex_num": "220",
+            "s_att": "30",
+            "s_def": "30",
+            "spd": "50",
+            "type": [
+                "ice",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Oblivious",
+                "Snow Cloak",
+                "Thick Fat"
+            ],
+            "att": "100",
+            "def": "80",
+            "galar_dex_num": "076",
+            "hp": "100",
+            "name": "Piloswine",
+            "national_dex_num": "221",
+            "s_att": "60",
+            "s_def": "60",
+            "spd": "50",
+            "type": [
+                "ice",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Oblivious",
+                "Snow Cloak",
+                "Thick Fat"
+            ],
+            "att": "130",
+            "def": "80",
+            "galar_dex_num": "077",
+            "hp": "110",
+            "name": "Mamoswine",
+            "national_dex_num": "473",
+            "s_att": "70",
+            "s_def": "60",
+            "spd": "80",
+            "type": [
+                "ice",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Vital Spirit",
+                "Hustle",
+                "Insomnia"
+            ],
+            "att": "55",
+            "def": "45",
+            "galar_dex_num": "078",
+            "hp": "45",
+            "name": "Delibird",
+            "national_dex_num": "225",
+            "s_att": "65",
+            "s_def": "45",
+            "spd": "75",
+            "type": [
+                "ice",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Inner Focus",
+                "Ice Body",
+                "Moody"
+            ],
+            "att": "50",
+            "def": "50",
+            "galar_dex_num": "079",
+            "hp": "50",
+            "name": "Snorunt",
+            "national_dex_num": "361",
+            "s_att": "50",
+            "s_def": "50",
+            "spd": "50",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Inner Focus",
+                "Ice Body",
+                "Moody"
+            ],
+            "att": "80",
+            "def": "80",
+            "galar_dex_num": "080",
+            "hp": "80",
+            "name": "Glalie",
+            "national_dex_num": "362",
+            "s_att": "80",
+            "s_def": "80",
+            "spd": "80",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Snow Cloak",
+                "Cursed Body"
+            ],
+            "att": "80",
+            "def": "70",
+            "galar_dex_num": "081",
+            "hp": "70",
+            "name": "Froslass",
+            "national_dex_num": "478",
+            "s_att": "80",
+            "s_def": "70",
+            "spd": "110",
+            "type": [
+                "ice",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "40",
+            "def": "55",
+            "galar_dex_num": "082",
+            "hp": "40",
+            "name": "Baltoy",
+            "national_dex_num": "343",
+            "s_att": "40",
+            "s_def": "70",
+            "spd": "55",
+            "type": [
+                "ground",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "70",
+            "def": "105",
+            "galar_dex_num": "083",
+            "hp": "60",
+            "name": "Claydol",
+            "national_dex_num": "344",
+            "s_att": "70",
+            "s_def": "120",
+            "spd": "75",
+            "type": [
+                "ground",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Own Tempo",
+                "Stamina",
+                "Inner Focus"
+            ],
+            "att": "100",
+            "def": "70",
+            "galar_dex_num": "084",
+            "hp": "70",
+            "name": "Mudbray",
+            "national_dex_num": "749",
+            "s_att": "45",
+            "s_def": "55",
+            "spd": "45",
+            "type": [
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Own Tempo",
+                "Stamina",
+                "Inner Focus"
+            ],
+            "att": "125",
+            "def": "100",
+            "galar_dex_num": "085",
+            "hp": "100",
+            "name": "Mudsdale",
+            "national_dex_num": "750",
+            "s_att": "55",
+            "s_def": "85",
+            "spd": "35",
+            "type": [
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Sturdy",
+                "Shell Armor",
+                "Weak Armor"
+            ],
+            "att": "65",
+            "def": "85",
+            "galar_dex_num": "086",
+            "hp": "50",
+            "name": "Dwebble",
+            "national_dex_num": "557",
+            "s_att": "35",
+            "s_def": "35",
+            "spd": "55",
+            "type": [
+                "bug",
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Sturdy",
+                "Shell Armor",
+                "Weak Armor"
+            ],
+            "att": "105",
+            "def": "125",
+            "galar_dex_num": "087",
+            "hp": "70",
+            "name": "Crustle",
+            "national_dex_num": "558",
+            "s_att": "65",
+            "s_def": "75",
+            "spd": "45",
+            "type": [
+                "bug",
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Iron Fist",
+                "Klutz",
+                "No Guard"
+            ],
+            "att": "74",
+            "def": "50",
+            "galar_dex_num": "088",
+            "hp": "59",
+            "name": "Golett",
+            "national_dex_num": "622",
+            "s_att": "35",
+            "s_def": "50",
+            "spd": "35",
+            "type": [
+                "ground",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Iron Fist",
+                "Klutz",
+                "No Guard"
+            ],
+            "att": "124",
+            "def": "80",
+            "galar_dex_num": "089",
+            "hp": "89",
+            "name": "Golurk",
+            "national_dex_num": "623",
+            "s_att": "55",
+            "s_def": "80",
+            "spd": "55",
+            "type": [
+                "ground",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Forewarn",
+                "Synchronize",
+                "Telepathy"
+            ],
+            "att": "25",
+            "def": "45",
+            "galar_dex_num": "090",
+            "hp": "76",
+            "name": "Munna",
+            "national_dex_num": "517",
+            "s_att": "67",
+            "s_def": "55",
+            "spd": "24",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Forewarn",
+                "Synchronize",
+                "Telepathy"
+            ],
+            "att": "55",
+            "def": "85",
+            "galar_dex_num": "091",
+            "hp": "116",
+            "name": "Musharna",
+            "national_dex_num": "518",
+            "s_att": "107",
+            "s_def": "95",
+            "spd": "29",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Synchronize",
+                "Early Bird",
+                "Magic Bounce"
+            ],
+            "att": "50",
+            "def": "45",
+            "galar_dex_num": "092",
+            "hp": "40",
+            "name": "Natu",
+            "national_dex_num": "177",
+            "s_att": "70",
+            "s_def": "45",
+            "spd": "70",
+            "type": [
+                "psychic",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Synchronize",
+                "Early Bird",
+                "Magic Bounce"
+            ],
+            "att": "75",
+            "def": "70",
+            "galar_dex_num": "093",
+            "hp": "65",
+            "name": "Xatu",
+            "national_dex_num": "178",
+            "s_att": "95",
+            "s_def": "70",
+            "spd": "95",
+            "type": [
+                "psychic",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Fluffy",
+                "Klutz",
+                "Cute Charm"
+            ],
+            "att": "75",
+            "def": "50",
+            "galar_dex_num": "094",
+            "hp": "70",
+            "name": "Stufful",
+            "national_dex_num": "759",
+            "s_att": "45",
+            "s_def": "50",
+            "spd": "50",
+            "type": [
+                "normal",
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Fluffy",
+                "Klutz",
+                "Unnerve"
+            ],
+            "att": "125",
+            "def": "80",
+            "galar_dex_num": "095",
+            "hp": "120",
+            "name": "Bewear",
+            "national_dex_num": "760",
+            "s_att": "55",
+            "s_def": "60",
+            "spd": "60",
+            "type": [
+                "normal",
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Snow Warning",
+                "Soundproof"
+            ],
+            "att": "62",
+            "def": "50",
+            "galar_dex_num": "096",
+            "hp": "60",
+            "name": "Snover",
+            "national_dex_num": "459",
+            "s_att": "62",
+            "s_def": "60",
+            "spd": "40",
+            "type": [
+                "grass",
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Snow Warning",
+                "Soundproof"
+            ],
+            "att": "92",
+            "def": "75",
+            "galar_dex_num": "097",
+            "hp": "90",
+            "name": "Abomasnow",
+            "national_dex_num": "460",
+            "s_att": "92",
+            "s_def": "85",
+            "spd": "60",
+            "type": [
+                "grass",
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Hyper Cutter",
+                "Shell Armor",
+                "Sheer Force"
+            ],
+            "att": "105",
+            "def": "90",
+            "galar_dex_num": "098",
+            "hp": "30",
+            "name": "Krabby",
+            "national_dex_num": "098",
+            "s_att": "25",
+            "s_def": "25",
+            "spd": "50",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Hyper Cutter",
+                "Shell Armor",
+                "Sheer Force"
+            ],
+            "att": "130",
+            "def": "115",
+            "galar_dex_num": "099",
+            "hp": "55",
+            "name": "Kingler",
+            "national_dex_num": "099",
+            "s_att": "50",
+            "s_def": "50",
+            "spd": "75",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Damp",
+                "Water Absorb",
+                "Unaware"
+            ],
+            "att": "45",
+            "def": "45",
+            "galar_dex_num": "100",
+            "hp": "55",
+            "name": "Wooper",
+            "national_dex_num": "194",
+            "s_att": "25",
+            "s_def": "25",
+            "spd": "15",
+            "type": [
+                "water",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Damp",
+                "Water Absorb",
+                "Unaware"
+            ],
+            "att": "85",
+            "def": "85",
+            "galar_dex_num": "101",
+            "hp": "95",
+            "name": "Quagsire",
+            "national_dex_num": "195",
+            "s_att": "65",
+            "s_def": "65",
+            "spd": "35",
+            "type": [
+                "water",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Hyper Cutter",
+                "Shell Armor",
+                "Adaptability"
+            ],
+            "att": "80",
+            "def": "65",
+            "galar_dex_num": "102",
+            "hp": "43",
+            "name": "Corphish",
+            "national_dex_num": "341",
+            "s_att": "50",
+            "s_def": "35",
+            "spd": "35",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Hyper Cutter",
+                "Shell Armor",
+                "Adaptability"
+            ],
+            "att": "120",
+            "def": "85",
+            "galar_dex_num": "103",
+            "hp": "63",
+            "name": "Crawdaunt",
+            "national_dex_num": "342",
+            "s_att": "90",
+            "s_def": "55",
+            "spd": "55",
+            "type": [
+                "water",
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Compoundeyes",
+                "Run Away"
+            ],
+            "att": "45",
+            "def": "90",
+            "galar_dex_num": "104",
+            "hp": "31",
+            "name": "Nincada",
+            "national_dex_num": "290",
+            "s_att": "30",
+            "s_def": "30",
+            "spd": "40",
+            "type": [
+                "bug",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Speed Boost",
+                "Infiltrator"
+            ],
+            "att": "90",
+            "def": "45",
+            "galar_dex_num": "105",
+            "hp": "61",
+            "name": "Ninjask",
+            "national_dex_num": "291",
+            "s_att": "50",
+            "s_def": "50",
+            "spd": "160",
+            "type": [
+                "bug",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Wonder Guard"
+            ],
+            "att": "90",
+            "def": "45",
+            "galar_dex_num": "106",
+            "hp": "1",
+            "name": "Shedinja",
+            "national_dex_num": "292",
+            "s_att": "30",
+            "s_def": "30",
+            "spd": "40",
+            "type": [
+                "bug",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Guts",
+                "Steadfast",
+                "Vital Spirit"
+            ],
+            "att": "35",
+            "def": "35",
+            "galar_dex_num": "107",
+            "hp": "35",
+            "name": "Tyrogue",
+            "national_dex_num": "236",
+            "s_att": "35",
+            "s_def": "35",
+            "spd": "35",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Limber",
+                "Reckless",
+                "Unburden"
+            ],
+            "att": "120",
+            "def": "53",
+            "galar_dex_num": "108",
+            "hp": "50",
+            "name": "Hitmonlee",
+            "national_dex_num": "106",
+            "s_att": "35",
+            "s_def": "110",
+            "spd": "87",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Keen Eye",
+                "Iron Fist",
+                "Inner Focus"
+            ],
+            "att": "105",
+            "def": "79",
+            "galar_dex_num": "109",
+            "hp": "50",
+            "name": "Hitmonchan",
+            "national_dex_num": "107",
+            "s_att": "35",
+            "s_def": "110",
+            "spd": "76",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Intimidate",
+                "Technician",
+                "Steadfast"
+            ],
+            "att": "95",
+            "def": "95",
+            "galar_dex_num": "110",
+            "hp": "50",
+            "name": "Hitmontop",
+            "national_dex_num": "237",
+            "s_att": "35",
+            "s_def": "110",
+            "spd": "70",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Iron Fist",
+                "Mold Breaker",
+                "Scrappy"
+            ],
+            "att": "82",
+            "def": "62",
+            "galar_dex_num": "111",
+            "hp": "67",
+            "name": "Pancham",
+            "national_dex_num": "674",
+            "s_att": "46",
+            "s_def": "48",
+            "spd": "43",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Iron Fist",
+                "Mold Breaker",
+                "Scrappy"
+            ],
+            "att": "124",
+            "def": "78",
+            "galar_dex_num": "112",
+            "hp": "95",
+            "name": "Pangoro",
+            "national_dex_num": "675",
+            "s_att": "69",
+            "s_def": "71",
+            "spd": "58",
+            "type": [
+                "fighting",
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Plus",
+                "Minus",
+                "Clear Body"
+            ],
+            "att": "55",
+            "def": "70",
+            "galar_dex_num": "113",
+            "hp": "40",
+            "name": "Klink",
+            "national_dex_num": "599",
+            "s_att": "45",
+            "s_def": "60",
+            "spd": "30",
+            "type": [
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Plus",
+                "Minus",
+                "Clear Body"
+            ],
+            "att": "80",
+            "def": "95",
+            "galar_dex_num": "114",
+            "hp": "60",
+            "name": "Klang",
+            "national_dex_num": "600",
+            "s_att": "70",
+            "s_def": "85",
+            "spd": "50",
+            "type": [
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Plus",
+                "Minus",
+                "Clear Body"
+            ],
+            "att": "100",
+            "def": "115",
+            "galar_dex_num": "115",
+            "hp": "60",
+            "name": "Klinklang",
+            "national_dex_num": "601",
+            "s_att": "70",
+            "s_def": "85",
+            "spd": "90",
+            "type": [
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Honey Gather",
+                "Hustle"
+            ],
+            "att": "30",
+            "def": "42",
+            "galar_dex_num": "116",
+            "hp": "30",
+            "name": "Combee",
+            "national_dex_num": "415",
+            "s_att": "30",
+            "s_def": "42",
+            "spd": "70",
+            "type": [
+                "bug",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Pressure",
+                "Unnerve"
+            ],
+            "att": "80",
+            "def": "102",
+            "galar_dex_num": "117",
+            "hp": "70",
+            "name": "Vespiquen",
+            "national_dex_num": "416",
+            "s_att": "80",
+            "s_def": "102",
+            "spd": "40",
+            "type": [
+                "bug",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate",
+                "Heatproof",
+                "Heavy Metal"
+            ],
+            "att": "24",
+            "def": "86",
+            "galar_dex_num": "118",
+            "hp": "57",
+            "name": "Bronzor",
+            "national_dex_num": "436",
+            "s_att": "24",
+            "s_def": "86",
+            "spd": "23",
+            "type": [
+                "steel",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate",
+                "Heatproof",
+                "Heavy Metal"
+            ],
+            "att": "89",
+            "def": "116",
+            "galar_dex_num": "119",
+            "hp": "67",
+            "name": "Bronzong",
+            "national_dex_num": "437",
+            "s_att": "79",
+            "s_def": "116",
+            "spd": "33",
+            "type": [
+                "steel",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Synchronize",
+                "Trace",
+                "Telepathy"
+            ],
+            "att": "25",
+            "def": "25",
+            "galar_dex_num": "120",
+            "hp": "28",
+            "name": "Ralts",
+            "national_dex_num": "280",
+            "s_att": "45",
+            "s_def": "35",
+            "spd": "40",
+            "type": [
+                "psychic",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Synchronize",
+                "Trace",
+                "Telepathy"
+            ],
+            "att": "35",
+            "def": "35",
+            "galar_dex_num": "121",
+            "hp": "38",
+            "name": "Kirlia",
+            "national_dex_num": "281",
+            "s_att": "65",
+            "s_def": "55",
+            "spd": "50",
+            "type": [
+                "psychic",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Synchronize",
+                "Trace",
+                "Telepathy"
+            ],
+            "att": "65",
+            "def": "65",
+            "galar_dex_num": "122",
+            "hp": "68",
+            "name": "Gardevoir",
+            "national_dex_num": "282",
+            "s_att": "125",
+            "s_def": "115",
+            "spd": "80",
+            "type": [
+                "psychic",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Steadfast",
+                "Justified"
+            ],
+            "att": "125",
+            "def": "65",
+            "galar_dex_num": "123",
+            "hp": "68",
+            "name": "Gallade",
+            "national_dex_num": "475",
+            "s_att": "65",
+            "s_def": "115",
+            "spd": "80",
+            "type": [
+                "psychic",
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Aftermath",
+                "Unburden",
+                "Flare Boost"
+            ],
+            "att": "50",
+            "def": "34",
+            "galar_dex_num": "124",
+            "hp": "90",
+            "name": "Drifloon",
+            "national_dex_num": "425",
+            "s_att": "60",
+            "s_def": "44",
+            "spd": "70",
+            "type": [
+                "ghost",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Aftermath",
+                "Unburden",
+                "Flare Boost"
+            ],
+            "att": "80",
+            "def": "44",
+            "galar_dex_num": "125",
+            "hp": "150",
+            "name": "Drifblim",
+            "national_dex_num": "426",
+            "s_att": "90",
+            "s_def": "54",
+            "spd": "80",
+            "type": [
+                "ghost",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Cotton Down",
+                "Regenerator",
+                "Effect Spore"
+            ],
+            "att": "40",
+            "def": "60",
+            "galar_dex_num": "126",
+            "hp": "40",
+            "name": "Gossifleur",
+            "national_dex_num": "829",
+            "s_att": "40",
+            "s_def": "60",
+            "spd": "10",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Cotton Down",
+                "Regenerator",
+                "Effect Spore"
+            ],
+            "att": "50",
+            "def": "90",
+            "galar_dex_num": "127",
+            "hp": "60",
+            "name": "Eldegoss",
+            "national_dex_num": "830",
+            "s_att": "80",
+            "s_def": "120",
+            "spd": "60",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Chlorophyll"
+            ],
+            "att": "35",
+            "def": "45",
+            "galar_dex_num": "128",
+            "hp": "45",
+            "name": "Cherubi",
+            "national_dex_num": "420",
+            "s_att": "62",
+            "s_def": "53",
+            "spd": "35",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Flower Gift"
+            ],
+            "att": "60",
+            "def": "70",
+            "galar_dex_num": "129",
+            "hp": "70",
+            "name": "Cherrim",
+            "national_dex_num": "421",
+            "s_att": "87",
+            "s_def": "78",
+            "spd": "85",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Stench",
+                "Aftermath",
+                "Keen Eye"
+            ],
+            "att": "63",
+            "def": "47",
+            "galar_dex_num": "130",
+            "hp": "63",
+            "name": "Stunky",
+            "national_dex_num": "434",
+            "s_att": "41",
+            "s_def": "41",
+            "spd": "74",
+            "type": [
+                "poison",
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Stench",
+                "Aftermath",
+                "Keen Eye"
+            ],
+            "att": "93",
+            "def": "67",
+            "galar_dex_num": "131",
+            "hp": "103",
+            "name": "Skuntank",
+            "national_dex_num": "435",
+            "s_att": "71",
+            "s_def": "61",
+            "spd": "84",
+            "type": [
+                "poison",
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Hydration",
+                "Water Absorb"
+            ],
+            "att": "50",
+            "def": "40",
+            "galar_dex_num": "132",
+            "hp": "50",
+            "name": "Tympole",
+            "national_dex_num": "535",
+            "s_att": "50",
+            "s_def": "40",
+            "spd": "64",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Hydration",
+                "Water Absorb"
+            ],
+            "att": "65",
+            "def": "55",
+            "galar_dex_num": "133",
+            "hp": "75",
+            "name": "Palpitoad",
+            "national_dex_num": "536",
+            "s_att": "65",
+            "s_def": "55",
+            "spd": "69",
+            "type": [
+                "water",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Poison Touch",
+                "Water Absorb"
+            ],
+            "att": "95",
+            "def": "75",
+            "galar_dex_num": "134",
+            "hp": "105",
+            "name": "Seismitoad",
+            "national_dex_num": "537",
+            "s_att": "85",
+            "s_def": "75",
+            "spd": "74",
+            "type": [
+                "water",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate",
+                "Frisk"
+            ],
+            "att": "40",
+            "def": "90",
+            "galar_dex_num": "135",
+            "hp": "20",
+            "name": "Duskull",
+            "national_dex_num": "355",
+            "s_att": "30",
+            "s_def": "90",
+            "spd": "25",
+            "type": [
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Pressure",
+                "Frisk"
+            ],
+            "att": "70",
+            "def": "130",
+            "galar_dex_num": "136",
+            "hp": "40",
+            "name": "Dusclops",
+            "national_dex_num": "356",
+            "s_att": "60",
+            "s_def": "130",
+            "spd": "25",
+            "type": [
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Pressure",
+                "Frisk"
+            ],
+            "att": "100",
+            "def": "135",
+            "galar_dex_num": "137",
+            "hp": "45",
+            "name": "Dusknoir",
+            "national_dex_num": "477",
+            "s_att": "65",
+            "s_def": "135",
+            "spd": "45",
+            "type": [
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Guts",
+                "No Guard",
+                "Steadfast"
+            ],
+            "att": "80",
+            "def": "50",
+            "galar_dex_num": "138",
+            "hp": "70",
+            "name": "Machop",
+            "national_dex_num": "066",
+            "s_att": "35",
+            "s_def": "35",
+            "spd": "35",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Guts",
+                "No Guard",
+                "Steadfast"
+            ],
+            "att": "100",
+            "def": "70",
+            "galar_dex_num": "139",
+            "hp": "80",
+            "name": "Machoke",
+            "national_dex_num": "067",
+            "s_att": "50",
+            "s_def": "60",
+            "spd": "45",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Guts",
+                "No Guard",
+                "Steadfast"
+            ],
+            "att": "130",
+            "def": "80",
+            "galar_dex_num": "140",
+            "hp": "90",
+            "name": "Machamp",
+            "national_dex_num": "068",
+            "s_att": "65",
+            "s_def": "85",
+            "spd": "55",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "35",
+            "def": "30",
+            "galar_dex_num": "141",
+            "hp": "30",
+            "name": "Gastly",
+            "national_dex_num": "092",
+            "s_att": "100",
+            "s_def": "35",
+            "spd": "80",
+            "type": [
+                "ghost",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "50",
+            "def": "45",
+            "galar_dex_num": "142",
+            "hp": "45",
+            "name": "Haunter",
+            "national_dex_num": "093",
+            "s_att": "115",
+            "s_def": "55",
+            "spd": "95",
+            "type": [
+                "ghost",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Cursed Body"
+            ],
+            "att": "65",
+            "def": "60",
+            "galar_dex_num": "143",
+            "hp": "60",
+            "name": "Gengar",
+            "national_dex_num": "094",
+            "s_att": "130",
+            "s_def": "75",
+            "spd": "110",
+            "type": [
+                "ghost",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Rattled"
+            ],
+            "att": "10",
+            "def": "55",
+            "galar_dex_num": "144",
+            "hp": "20",
+            "name": "Magikarp",
+            "national_dex_num": "129",
+            "s_att": "15",
+            "s_def": "20",
+            "spd": "80",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Intimidate",
+                "Moxie"
+            ],
+            "att": "125",
+            "def": "79",
+            "galar_dex_num": "145",
+            "hp": "95",
+            "name": "Gyarados",
+            "national_dex_num": "130",
+            "s_att": "60",
+            "s_def": "100",
+            "spd": "81",
+            "type": [
+                "water",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Water Veil",
+                "Lightning Rod"
+            ],
+            "att": "67",
+            "def": "60",
+            "galar_dex_num": "146",
+            "hp": "45",
+            "name": "Goldeen",
+            "national_dex_num": "118",
+            "s_att": "35",
+            "s_def": "50",
+            "spd": "63",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Water Veil",
+                "Lightning Rod"
+            ],
+            "att": "92",
+            "def": "65",
+            "galar_dex_num": "147",
+            "hp": "80",
+            "name": "Seaking",
+            "national_dex_num": "119",
+            "s_att": "65",
+            "s_def": "80",
+            "spd": "68",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Hustle",
+                "Sniper",
+                "Moody"
+            ],
+            "att": "65",
+            "def": "35",
+            "galar_dex_num": "148",
+            "hp": "35",
+            "name": "Remoraid",
+            "national_dex_num": "223",
+            "s_att": "65",
+            "s_def": "35",
+            "spd": "65",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Suction Cups",
+                "Sniper",
+                "Moody"
+            ],
+            "att": "105",
+            "def": "75",
+            "galar_dex_num": "149",
+            "hp": "75",
+            "name": "Octillery",
+            "national_dex_num": "224",
+            "s_att": "105",
+            "s_def": "75",
+            "spd": "45",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Shell Armor",
+                "Skill Link",
+                "Overcoat"
+            ],
+            "att": "65",
+            "def": "100",
+            "galar_dex_num": "150",
+            "hp": "30",
+            "name": "Shellder",
+            "national_dex_num": "090",
+            "s_att": "45",
+            "s_def": "25",
+            "spd": "40",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Shell Armor",
+                "Skill Link",
+                "Overcoat"
+            ],
+            "att": "95",
+            "def": "180",
+            "galar_dex_num": "151",
+            "hp": "50",
+            "name": "Cloyster",
+            "national_dex_num": "091",
+            "s_att": "85",
+            "s_def": "45",
+            "spd": "70",
+            "type": [
+                "water",
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Oblivious",
+                "Adaptability"
+            ],
+            "att": "15",
+            "def": "20",
+            "galar_dex_num": "152",
+            "hp": "20",
+            "name": "Feebas",
+            "national_dex_num": "349",
+            "s_att": "10",
+            "s_def": "55",
+            "spd": "80",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Marvel Scale",
+                "Competitive",
+                "Cute Charm"
+            ],
+            "att": "60",
+            "def": "79",
+            "galar_dex_num": "153",
+            "hp": "95",
+            "name": "Milotic",
+            "national_dex_num": "350",
+            "s_att": "100",
+            "s_def": "125",
+            "spd": "81",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Reckless",
+                "Adaptability",
+                "Mold Breaker"
+            ],
+            "att": "92",
+            "def": "65",
+            "galar_dex_num": "154",
+            "hp": "70",
+            "name": "Basculin",
+            "national_dex_num": "550",
+            "s_att": "80",
+            "s_def": "55",
+            "spd": "98",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Schooling"
+            ],
+            "att": "20",
+            "def": "20",
+            "galar_dex_num": "155",
+            "hp": "45",
+            "name": "Wishiwashi",
+            "national_dex_num": "746",
+            "s_att": "25",
+            "s_def": "25",
+            "spd": "40",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Innards Out",
+                "Unaware"
+            ],
+            "att": "60",
+            "def": "130",
+            "galar_dex_num": "156",
+            "hp": "55",
+            "name": "Pyukumuku",
+            "national_dex_num": "771",
+            "s_att": "30",
+            "s_def": "130",
+            "spd": "5",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Stench",
+                "Sticky Hold",
+                "Aftermath"
+            ],
+            "att": "50",
+            "def": "62",
+            "galar_dex_num": "157",
+            "hp": "50",
+            "name": "Trubbish",
+            "national_dex_num": "568",
+            "s_att": "40",
+            "s_def": "62",
+            "spd": "65",
+            "type": [
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Stench",
+                "Weak Armor",
+                "Aftermath"
+            ],
+            "att": "95",
+            "def": "82",
+            "galar_dex_num": "158",
+            "hp": "80",
+            "name": "Garbodor",
+            "national_dex_num": "569",
+            "s_att": "60",
+            "s_def": "82",
+            "spd": "75",
+            "type": [
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Flash Fire",
+                "White Smoke",
+                "Flame Body"
+            ],
+            "att": "65",
+            "def": "45",
+            "galar_dex_num": "159",
+            "hp": "50",
+            "name": "Sizzlipede",
+            "national_dex_num": "850",
+            "s_att": "50",
+            "s_def": "50",
+            "spd": "45",
+            "type": [
+                "fire",
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Flash Fire",
+                "White Smoke",
+                "Flame Body"
+            ],
+            "att": "115",
+            "def": "65",
+            "galar_dex_num": "160",
+            "hp": "100",
+            "name": "Centiskorch",
+            "national_dex_num": "851",
+            "s_att": "90",
+            "s_def": "90",
+            "spd": "65",
+            "type": [
+                "fire",
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Steam Engine",
+                "Heatproof",
+                "Flash Fire"
+            ],
+            "att": "40",
+            "def": "50",
+            "galar_dex_num": "161",
+            "hp": "30",
+            "name": "Rolycoly",
+            "national_dex_num": "837",
+            "s_att": "40",
+            "s_def": "50",
+            "spd": "30",
+            "type": [
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Steam Engine",
+                "Flame Body",
+                "Flash Fire"
+            ],
+            "att": "60",
+            "def": "90",
+            "galar_dex_num": "162",
+            "hp": "80",
+            "name": "Carkol",
+            "national_dex_num": "838",
+            "s_att": "60",
+            "s_def": "70",
+            "spd": "50",
+            "type": [
+                "rock",
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Steam Engine",
+                "Flame Body",
+                "Flash Fire"
+            ],
+            "att": "80",
+            "def": "120",
+            "galar_dex_num": "163",
+            "hp": "110",
+            "name": "Coalossal",
+            "national_dex_num": "839",
+            "s_att": "80",
+            "s_def": "90",
+            "spd": "30",
+            "type": [
+                "rock",
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Sand Veil",
+                "Arena Trap",
+                "Sand Force"
+            ],
+            "att": "55",
+            "def": "25",
+            "galar_dex_num": "164",
+            "hp": "10",
+            "name": "Diglett",
+            "national_dex_num": "050",
+            "s_att": "35",
+            "s_def": "45",
+            "spd": "95",
+            "type": [
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Sand Veil",
+                "Arena Trap",
+                "Sand Force"
+            ],
+            "att": "100",
+            "def": "50",
+            "galar_dex_num": "165",
+            "hp": "35",
+            "name": "Dugtrio",
+            "national_dex_num": "051",
+            "s_att": "50",
+            "s_def": "70",
+            "spd": "120",
+            "type": [
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Sand Rush",
+                "Sand Force",
+                "Mold Breaker"
+            ],
+            "att": "85",
+            "def": "40",
+            "galar_dex_num": "166",
+            "hp": "60",
+            "name": "Drilbur",
+            "national_dex_num": "529",
+            "s_att": "30",
+            "s_def": "45",
+            "spd": "68",
+            "type": [
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Sand Rush",
+                "Sand Force",
+                "Mold Breaker"
+            ],
+            "att": "135",
+            "def": "60",
+            "galar_dex_num": "167",
+            "hp": "110",
+            "name": "Excadrill",
+            "national_dex_num": "530",
+            "s_att": "50",
+            "s_def": "65",
+            "spd": "88",
+            "type": [
+                "ground",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Sturdy",
+                "Weak Armor",
+                "Sand Force"
+            ],
+            "att": "75",
+            "def": "85",
+            "galar_dex_num": "168",
+            "hp": "55",
+            "name": "Roggenrola",
+            "national_dex_num": "524",
+            "s_att": "25",
+            "s_def": "25",
+            "spd": "15",
+            "type": [
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Sturdy",
+                "Weak Armor",
+                "Sand Force"
+            ],
+            "att": "105",
+            "def": "105",
+            "galar_dex_num": "169",
+            "hp": "70",
+            "name": "Boldore",
+            "national_dex_num": "525",
+            "s_att": "50",
+            "s_def": "40",
+            "spd": "20",
+            "type": [
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Sturdy",
+                "Sand Stream",
+                "Sand Force"
+            ],
+            "att": "135",
+            "def": "130",
+            "galar_dex_num": "170",
+            "hp": "85",
+            "name": "Gigalith",
+            "national_dex_num": "526",
+            "s_att": "60",
+            "s_def": "80",
+            "spd": "25",
+            "type": [
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Guts",
+                "Sheer Force",
+                "Iron Fist"
+            ],
+            "att": "80",
+            "def": "55",
+            "galar_dex_num": "171",
+            "hp": "75",
+            "name": "Timburr",
+            "national_dex_num": "532",
+            "s_att": "25",
+            "s_def": "35",
+            "spd": "35",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Guts",
+                "Sheer Force",
+                "Iron Fist"
+            ],
+            "att": "105",
+            "def": "85",
+            "galar_dex_num": "172",
+            "hp": "85",
+            "name": "Gurdurr",
+            "national_dex_num": "533",
+            "s_att": "40",
+            "s_def": "50",
+            "spd": "40",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Guts",
+                "Sheer Force",
+                "Iron Fist"
+            ],
+            "att": "140",
+            "def": "95",
+            "galar_dex_num": "173",
+            "hp": "105",
+            "name": "Conkeldurr",
+            "national_dex_num": "534",
+            "s_att": "55",
+            "s_def": "65",
+            "spd": "45",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Unaware",
+                "Klutz",
+                "Simple"
+            ],
+            "att": "45",
+            "def": "43",
+            "galar_dex_num": "174",
+            "hp": "65",
+            "name": "Woobat",
+            "national_dex_num": "527",
+            "s_att": "55",
+            "s_def": "43",
+            "spd": "72",
+            "type": [
+                "psychic",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Unaware",
+                "Klutz",
+                "Simple"
+            ],
+            "att": "57",
+            "def": "55",
+            "galar_dex_num": "175",
+            "hp": "67",
+            "name": "Swoobat",
+            "national_dex_num": "528",
+            "s_att": "77",
+            "s_def": "55",
+            "spd": "114",
+            "type": [
+                "psychic",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Frisk",
+                "Infiltrator",
+                "Telepathy"
+            ],
+            "att": "30",
+            "def": "35",
+            "galar_dex_num": "176",
+            "hp": "40",
+            "name": "Noibat",
+            "national_dex_num": "714",
+            "s_att": "45",
+            "s_def": "40",
+            "spd": "55",
+            "type": [
+                "flying",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Frisk",
+                "Infiltrator",
+                "Telepathy"
+            ],
+            "att": "70",
+            "def": "80",
+            "galar_dex_num": "177",
+            "hp": "85",
+            "name": "Noivern",
+            "national_dex_num": "715",
+            "s_att": "97",
+            "s_def": "80",
+            "spd": "123",
+            "type": [
+                "flying",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Rock Head",
+                "Sturdy",
+                "Weak Armor"
+            ],
+            "att": "45",
+            "def": "160",
+            "galar_dex_num": "178",
+            "hp": "35",
+            "name": "Onix",
+            "national_dex_num": "095",
+            "s_att": "30",
+            "s_def": "45",
+            "spd": "70",
+            "type": [
+                "rock",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Rock Head",
+                "Sturdy",
+                "Sheer Force"
+            ],
+            "att": "85",
+            "def": "200",
+            "galar_dex_num": "179",
+            "hp": "75",
+            "name": "Steelix",
+            "national_dex_num": "208",
+            "s_att": "55",
+            "s_def": "65",
+            "spd": "30",
+            "type": [
+                "steel",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Propeller Tail"
+            ],
+            "att": "63",
+            "def": "40",
+            "galar_dex_num": "180",
+            "hp": "41",
+            "name": "Arrokuda",
+            "national_dex_num": "846",
+            "s_att": "40",
+            "s_def": "30",
+            "spd": "66",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Propeller Tail"
+            ],
+            "att": "123",
+            "def": "60",
+            "galar_dex_num": "181",
+            "hp": "61",
+            "name": "Barraskewda",
+            "national_dex_num": "847",
+            "s_att": "60",
+            "s_def": "50",
+            "spd": "136",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Pickup",
+                "Tough Claws",
+                "Unnerve"
+            ],
+            "att": "65",
+            "def": "55",
+            "galar_dex_num": "182",
+            "hp": "50",
+            "name": "Meowth",
+            "national_dex_num": "2-g",
+            "s_att": "40",
+            "s_def": "40",
+            "spd": "40",
+            "type": [
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Battle Armor",
+                "Tough Claws",
+                "Steely Spirit"
+            ],
+            "att": "110",
+            "def": "100",
+            "galar_dex_num": "183",
+            "hp": "70",
+            "name": "Perrserker",
+            "national_dex_num": "863",
+            "s_att": "50",
+            "s_def": "60",
+            "spd": "50",
+            "type": [
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Limber",
+                "Technician",
+                "Unnerve"
+            ],
+            "att": "70",
+            "def": "60",
+            "galar_dex_num": "184",
+            "hp": "65",
+            "name": "Persian",
+            "national_dex_num": "053",
+            "s_att": "65",
+            "s_def": "65",
+            "spd": "115",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Sweet Veil",
+                "Aroma Veil"
+            ],
+            "att": "40",
+            "def": "40",
+            "galar_dex_num": "185",
+            "hp": "45",
+            "name": "Milcery",
+            "national_dex_num": "868",
+            "s_att": "50",
+            "s_def": "61",
+            "spd": "34",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Sweet Veil",
+                "Aroma Veil"
+            ],
+            "att": "60",
+            "def": "75",
+            "galar_dex_num": "186",
+            "hp": "65",
+            "name": "Alcremie",
+            "national_dex_num": "869",
+            "s_att": "110",
+            "s_def": "121",
+            "spd": "64",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Honey Gather",
+                "Shield Dust",
+                "Sweet Veil"
+            ],
+            "att": "45",
+            "def": "40",
+            "galar_dex_num": "187",
+            "hp": "40",
+            "name": "Cutiefly",
+            "national_dex_num": "742",
+            "s_att": "55",
+            "s_def": "40",
+            "spd": "84",
+            "type": [
+                "bug",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Honey Gather",
+                "Shield Dust",
+                "Sweet Veil"
+            ],
+            "att": "55",
+            "def": "60",
+            "galar_dex_num": "188",
+            "hp": "60",
+            "name": "Ribombee",
+            "national_dex_num": "743",
+            "s_att": "95",
+            "s_def": "70",
+            "spd": "124",
+            "type": [
+                "bug",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Iron Barbs"
+            ],
+            "att": "50",
+            "def": "91",
+            "galar_dex_num": "189",
+            "hp": "44",
+            "name": "Ferroseed",
+            "national_dex_num": "597",
+            "s_att": "24",
+            "s_def": "86",
+            "spd": "10",
+            "type": [
+                "grass",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Iron Barbs",
+                "Anticipation"
+            ],
+            "att": "94",
+            "def": "131",
+            "galar_dex_num": "190",
+            "hp": "74",
+            "name": "Ferrothorn",
+            "national_dex_num": "598",
+            "s_att": "54",
+            "s_def": "116",
+            "spd": "20",
+            "type": [
+                "grass",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Pickup",
+                "Frisk",
+                "Insomnia"
+            ],
+            "att": "66",
+            "def": "70",
+            "galar_dex_num": "191",
+            "hp": "49",
+            "name": "Pumpkaboo",
+            "national_dex_num": "710",
+            "s_att": "44",
+            "s_def": "55",
+            "spd": "51",
+            "type": [
+                "ghost",
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Pickup",
+                "Frisk",
+                "Insomnia"
+            ],
+            "att": "90",
+            "def": "122",
+            "galar_dex_num": "192",
+            "hp": "65",
+            "name": "Gourgeist",
+            "national_dex_num": "711",
+            "s_att": "58",
+            "s_def": "75",
+            "spd": "84",
+            "type": [
+                "ghost",
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Static",
+                "Lightning Rod"
+            ],
+            "att": "40",
+            "def": "15",
+            "galar_dex_num": "193",
+            "hp": "20",
+            "name": "Pichu",
+            "national_dex_num": "172",
+            "s_att": "35",
+            "s_def": "35",
+            "spd": "60",
+            "type": [
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Static",
+                "Lightning Rod"
+            ],
+            "att": "55",
+            "def": "40",
+            "galar_dex_num": "194",
+            "hp": "35",
+            "name": "Pikachu",
+            "national_dex_num": "025",
+            "s_att": "50",
+            "s_def": "50",
+            "spd": "90",
+            "type": [
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Static",
+                "Lightning Rod"
+            ],
+            "att": "90",
+            "def": "55",
+            "galar_dex_num": "195",
+            "hp": "60",
+            "name": "Raichu",
+            "national_dex_num": "026",
+            "s_att": "90",
+            "s_def": "80",
+            "spd": "110",
+            "type": [
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Run Away",
+                "Adaptability",
+                "Anticipation"
+            ],
+            "att": "55",
+            "def": "50",
+            "galar_dex_num": "196",
+            "hp": "55",
+            "name": "Eevee",
+            "national_dex_num": "133",
+            "s_att": "45",
+            "s_def": "65",
+            "spd": "55",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Absorb",
+                "Hydration"
+            ],
+            "att": "65",
+            "def": "60",
+            "galar_dex_num": "197",
+            "hp": "130",
+            "name": "Vaporeon",
+            "national_dex_num": "134",
+            "s_att": "110",
+            "s_def": "95",
+            "spd": "65",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Volt Absorb",
+                "Quick Feet"
+            ],
+            "att": "65",
+            "def": "60",
+            "galar_dex_num": "198",
+            "hp": "65",
+            "name": "Jolteon",
+            "national_dex_num": "135",
+            "s_att": "110",
+            "s_def": "95",
+            "spd": "130",
+            "type": [
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Flash Fire",
+                "Guts"
+            ],
+            "att": "130",
+            "def": "60",
+            "galar_dex_num": "199",
+            "hp": "65",
+            "name": "Flareon",
+            "national_dex_num": "136",
+            "s_att": "95",
+            "s_def": "110",
+            "spd": "65",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Synchronize",
+                "Magic Bounce"
+            ],
+            "att": "65",
+            "def": "60",
+            "galar_dex_num": "200",
+            "hp": "65",
+            "name": "Espeon",
+            "national_dex_num": "196",
+            "s_att": "130",
+            "s_def": "95",
+            "spd": "110",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Synchronize",
+                "Inner Focus"
+            ],
+            "att": "65",
+            "def": "110",
+            "galar_dex_num": "201",
+            "hp": "95",
+            "name": "Umbreon",
+            "national_dex_num": "197",
+            "s_att": "60",
+            "s_def": "130",
+            "spd": "65",
+            "type": [
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Leaf Guard",
+                "Chlorophyll"
+            ],
+            "att": "110",
+            "def": "130",
+            "galar_dex_num": "202",
+            "hp": "65",
+            "name": "Leafeon",
+            "national_dex_num": "470",
+            "s_att": "60",
+            "s_def": "65",
+            "spd": "95",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Snow Cloak",
+                "Ice Body"
+            ],
+            "att": "60",
+            "def": "110",
+            "galar_dex_num": "203",
+            "hp": "65",
+            "name": "Glaceon",
+            "national_dex_num": "471",
+            "s_att": "130",
+            "s_def": "95",
+            "spd": "65",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Cute Charm",
+                "Pixilate"
+            ],
+            "att": "65",
+            "def": "65",
+            "galar_dex_num": "204",
+            "hp": "95",
+            "name": "Sylveon",
+            "national_dex_num": "700",
+            "s_att": "110",
+            "s_def": "130",
+            "spd": "60",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Ripen",
+                "Gluttony",
+                "Bulletproof"
+            ],
+            "att": "40",
+            "def": "80",
+            "galar_dex_num": "205",
+            "hp": "40",
+            "name": "Applin",
+            "national_dex_num": "840",
+            "s_att": "40",
+            "s_def": "40",
+            "spd": "20",
+            "type": [
+                "grass",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Ripen",
+                "Gluttony",
+                "Hustle"
+            ],
+            "att": "110",
+            "def": "80",
+            "galar_dex_num": "206",
+            "hp": "70",
+            "name": "Flapple",
+            "national_dex_num": "841",
+            "s_att": "95",
+            "s_def": "60",
+            "spd": "70",
+            "type": [
+                "grass",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Ripen",
+                "Gluttony",
+                "Thick Fat"
+            ],
+            "att": "85",
+            "def": "80",
+            "galar_dex_num": "207",
+            "hp": "110",
+            "name": "Appletun",
+            "national_dex_num": "842",
+            "s_att": "100",
+            "s_def": "80",
+            "spd": "30",
+            "type": [
+                "grass",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Keen Eye",
+                "Infiltrator",
+                "Own Tempo"
+            ],
+            "att": "48",
+            "def": "54",
+            "galar_dex_num": "208",
+            "hp": "62",
+            "name": "Espurr",
+            "national_dex_num": "677",
+            "s_att": "63",
+            "s_def": "60",
+            "spd": "68",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Keen Eye",
+                "Infiltrator",
+                "Prankster"
+            ],
+            "att": "48",
+            "def": "76",
+            "galar_dex_num": "209",
+            "hp": "74",
+            "name": "Meowstic",
+            "national_dex_num": "678",
+            "s_att": "83",
+            "s_def": "81",
+            "spd": "104",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Sweet Veil",
+                "Unburden"
+            ],
+            "att": "48",
+            "def": "66",
+            "galar_dex_num": "210",
+            "hp": "62",
+            "name": "Swirlix",
+            "national_dex_num": "684",
+            "s_att": "59",
+            "s_def": "57",
+            "spd": "49",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Sweet Veil",
+                "Unburden"
+            ],
+            "att": "80",
+            "def": "86",
+            "galar_dex_num": "211",
+            "hp": "82",
+            "name": "Slurpuff",
+            "national_dex_num": "685",
+            "s_att": "85",
+            "s_def": "75",
+            "spd": "72",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Healer",
+                "Aroma Veil"
+            ],
+            "att": "52",
+            "def": "60",
+            "galar_dex_num": "212",
+            "hp": "78",
+            "name": "Spritzee",
+            "national_dex_num": "682",
+            "s_att": "63",
+            "s_def": "65",
+            "spd": "23",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Healer",
+                "Aroma Veil"
+            ],
+            "att": "72",
+            "def": "72",
+            "galar_dex_num": "213",
+            "hp": "101",
+            "name": "Aromatisse",
+            "national_dex_num": "683",
+            "s_att": "99",
+            "s_def": "89",
+            "spd": "29",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Bubble",
+                "Water Absorb"
+            ],
+            "att": "40",
+            "def": "52",
+            "galar_dex_num": "214",
+            "hp": "38",
+            "name": "Dewpider",
+            "national_dex_num": "751",
+            "s_att": "40",
+            "s_def": "72",
+            "spd": "27",
+            "type": [
+                "water",
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Bubble",
+                "Water Absorb"
+            ],
+            "att": "70",
+            "def": "92",
+            "galar_dex_num": "215",
+            "hp": "68",
+            "name": "Araquanid",
+            "national_dex_num": "752",
+            "s_att": "50",
+            "s_def": "132",
+            "spd": "42",
+            "type": [
+                "water",
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Shadow Tag",
+                "Telepathy"
+            ],
+            "att": "23",
+            "def": "48",
+            "galar_dex_num": "216",
+            "hp": "95",
+            "name": "Wynaut",
+            "national_dex_num": "360",
+            "s_att": "23",
+            "s_def": "48",
+            "spd": "23",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Shadow Tag",
+                "Telepathy"
+            ],
+            "att": "33",
+            "def": "58",
+            "galar_dex_num": "217",
+            "hp": "190",
+            "name": "Wobbuffet",
+            "national_dex_num": "202",
+            "s_att": "33",
+            "s_def": "58",
+            "spd": "33",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Steadfast",
+                "Scrappy"
+            ],
+            "att": "95",
+            "def": "55",
+            "galar_dex_num": "218",
+            "hp": "52",
+            "name": "Farfetch'd",
+            "national_dex_num": "3-g",
+            "s_att": "58",
+            "s_def": "62",
+            "spd": "55",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Steadfast",
+                "Scrappy"
+            ],
+            "att": "135",
+            "def": "95",
+            "galar_dex_num": "219",
+            "hp": "62",
+            "name": "Sirfetch'd",
+            "national_dex_num": "865",
+            "s_att": "68",
+            "s_def": "82",
+            "spd": "65",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Volt Absorb",
+                "Illuminate",
+                "Water Absorb"
+            ],
+            "att": "38",
+            "def": "38",
+            "galar_dex_num": "220",
+            "hp": "75",
+            "name": "Chinchou",
+            "national_dex_num": "170",
+            "s_att": "56",
+            "s_def": "56",
+            "spd": "67",
+            "type": [
+                "water",
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Volt Absorb",
+                "Illuminate",
+                "Water Absorb"
+            ],
+            "att": "58",
+            "def": "58",
+            "galar_dex_num": "221",
+            "hp": "125",
+            "name": "Lanturn",
+            "national_dex_num": "171",
+            "s_att": "76",
+            "s_def": "76",
+            "spd": "67",
+            "type": [
+                "water",
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Anticipation",
+                "Dry Skin",
+                "Poison Touch"
+            ],
+            "att": "61",
+            "def": "40",
+            "galar_dex_num": "222",
+            "hp": "48",
+            "name": "Croagunk",
+            "national_dex_num": "453",
+            "s_att": "61",
+            "s_def": "40",
+            "spd": "50",
+            "type": [
+                "poison",
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Anticipation",
+                "Dry Skin",
+                "Poison Touch"
+            ],
+            "att": "106",
+            "def": "65",
+            "galar_dex_num": "223",
+            "hp": "83",
+            "name": "Toxicroak",
+            "national_dex_num": "454",
+            "s_att": "86",
+            "s_def": "65",
+            "spd": "85",
+            "type": [
+                "poison",
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Shed Skin",
+                "Moxie",
+                "Intimidate"
+            ],
+            "att": "75",
+            "def": "70",
+            "galar_dex_num": "224",
+            "hp": "50",
+            "name": "Scraggy",
+            "national_dex_num": "559",
+            "s_att": "35",
+            "s_def": "70",
+            "spd": "48",
+            "type": [
+                "dark",
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Shed Skin",
+                "Moxie",
+                "Intimidate"
+            ],
+            "att": "90",
+            "def": "115",
+            "galar_dex_num": "225",
+            "hp": "65",
+            "name": "Scrafty",
+            "national_dex_num": "560",
+            "s_att": "45",
+            "s_def": "115",
+            "spd": "58",
+            "type": [
+                "dark",
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Mimicry"
+            ],
+            "att": "81",
+            "def": "99",
+            "galar_dex_num": "226",
+            "hp": "109",
+            "name": "Stunfisk",
+            "national_dex_num": "8-g",
+            "s_att": "66",
+            "s_def": "84",
+            "spd": "32",
+            "type": [
+                "ground",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Sturdy",
+                "Gluttony",
+                "Contrary"
+            ],
+            "att": "10",
+            "def": "230",
+            "galar_dex_num": "227",
+            "hp": "20",
+            "name": "Shuckle",
+            "national_dex_num": "213",
+            "s_att": "10",
+            "s_def": "230",
+            "spd": "5",
+            "type": [
+                "bug",
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Oblivious",
+                "Anticipation",
+                "Hydration"
+            ],
+            "att": "48",
+            "def": "43",
+            "galar_dex_num": "228",
+            "hp": "50",
+            "name": "Barboach",
+            "national_dex_num": "339",
+            "s_att": "46",
+            "s_def": "41",
+            "spd": "60",
+            "type": [
+                "water",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Oblivious",
+                "Anticipation",
+                "Hydration"
+            ],
+            "att": "78",
+            "def": "73",
+            "galar_dex_num": "229",
+            "hp": "110",
+            "name": "Whiscash",
+            "national_dex_num": "340",
+            "s_att": "76",
+            "s_def": "71",
+            "spd": "60",
+            "type": [
+                "water",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Sticky Hold",
+                "Storm Drain",
+                "Sand Force"
+            ],
+            "att": "48",
+            "def": "48",
+            "galar_dex_num": "230",
+            "hp": "76",
+            "name": "Shellos",
+            "national_dex_num": "422",
+            "s_att": "57",
+            "s_def": "62",
+            "spd": "34",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Sticky Hold",
+                "Storm Drain",
+                "Sand Force"
+            ],
+            "att": "83",
+            "def": "68",
+            "galar_dex_num": "231",
+            "hp": "111",
+            "name": "Gastrodon",
+            "national_dex_num": "423",
+            "s_att": "92",
+            "s_def": "82",
+            "spd": "39",
+            "type": [
+                "water",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Wimp Out"
+            ],
+            "att": "35",
+            "def": "40",
+            "galar_dex_num": "232",
+            "hp": "25",
+            "name": "Wimpod",
+            "national_dex_num": "767",
+            "s_att": "20",
+            "s_def": "30",
+            "spd": "80",
+            "type": [
+                "bug",
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Emergency Exit"
+            ],
+            "att": "125",
+            "def": "140",
+            "galar_dex_num": "233",
+            "hp": "75",
+            "name": "Golisopod",
+            "national_dex_num": "768",
+            "s_att": "60",
+            "s_def": "90",
+            "spd": "40",
+            "type": [
+                "bug",
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Tough Claws",
+                "Sniper",
+                "Pickpocket"
+            ],
+            "att": "52",
+            "def": "67",
+            "galar_dex_num": "234",
+            "hp": "42",
+            "name": "Binacle",
+            "national_dex_num": "688",
+            "s_att": "39",
+            "s_def": "56",
+            "spd": "50",
+            "type": [
+                "rock",
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Tough Claws",
+                "Sniper",
+                "Pickpocket"
+            ],
+            "att": "105",
+            "def": "115",
+            "galar_dex_num": "235",
+            "hp": "72",
+            "name": "Barbaracle",
+            "national_dex_num": "689",
+            "s_att": "54",
+            "s_def": "86",
+            "spd": "68",
+            "type": [
+                "rock",
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Weak Armor",
+                "Cursed Body"
+            ],
+            "att": "55",
+            "def": "100",
+            "galar_dex_num": "236",
+            "hp": "60",
+            "name": "Corsola",
+            "national_dex_num": "2-g",
+            "s_att": "65",
+            "s_def": "100",
+            "spd": "30",
+            "type": [
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Weak Armor",
+                "Perish Body"
+            ],
+            "att": "95",
+            "def": "50",
+            "galar_dex_num": "237",
+            "hp": "60",
+            "name": "Cursola",
+            "national_dex_num": "864",
+            "s_att": "145",
+            "s_def": "130",
+            "spd": "30",
+            "type": [
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Prankster",
+                "Frisk",
+                "Pickpocket"
+            ],
+            "att": "45",
+            "def": "30",
+            "galar_dex_num": "238",
+            "hp": "45",
+            "name": "Impidimp",
+            "national_dex_num": "859",
+            "s_att": "55",
+            "s_def": "40",
+            "spd": "50",
+            "type": [
+                "dark",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Prankster",
+                "Frisk",
+                "Pickpocket"
+            ],
+            "att": "60",
+            "def": "45",
+            "galar_dex_num": "239",
+            "hp": "65",
+            "name": "Morgrem",
+            "national_dex_num": "860",
+            "s_att": "75",
+            "s_def": "55",
+            "spd": "70",
+            "type": [
+                "dark",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Prankster",
+                "Frisk",
+                "Pickpocket"
+            ],
+            "att": "120",
+            "def": "65",
+            "galar_dex_num": "240",
+            "hp": "95",
+            "name": "Grimmsnarl",
+            "national_dex_num": "861",
+            "s_att": "95",
+            "s_def": "75",
+            "spd": "60",
+            "type": [
+                "dark",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Healer",
+                "Anticipation",
+                "Magic Bounce"
+            ],
+            "att": "30",
+            "def": "45",
+            "galar_dex_num": "241",
+            "hp": "42",
+            "name": "Hatenna",
+            "national_dex_num": "856",
+            "s_att": "56",
+            "s_def": "53",
+            "spd": "39",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Healer",
+                "Anticipation",
+                "Magic Bounce"
+            ],
+            "att": "40",
+            "def": "65",
+            "galar_dex_num": "242",
+            "hp": "57",
+            "name": "Hattrem",
+            "national_dex_num": "857",
+            "s_att": "86",
+            "s_def": "73",
+            "spd": "49",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Healer",
+                "Anticipation",
+                "Magic Bounce"
+            ],
+            "att": "90",
+            "def": "95",
+            "galar_dex_num": "243",
+            "hp": "57",
+            "name": "Hatterene",
+            "national_dex_num": "858",
+            "s_att": "136",
+            "s_def": "103",
+            "spd": "29",
+            "type": [
+                "psychic",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Corrosion",
+                "Oblivious"
+            ],
+            "att": "44",
+            "def": "40",
+            "galar_dex_num": "244",
+            "hp": "48",
+            "name": "Salandit",
+            "national_dex_num": "757",
+            "s_att": "71",
+            "s_def": "40",
+            "spd": "77",
+            "type": [
+                "poison",
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Corrosion",
+                "Oblivious"
+            ],
+            "att": "64",
+            "def": "60",
+            "galar_dex_num": "245",
+            "hp": "68",
+            "name": "Salazzle",
+            "national_dex_num": "758",
+            "s_att": "111",
+            "s_def": "60",
+            "spd": "117",
+            "type": [
+                "poison",
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Defiant",
+                "Inner Focus",
+                "Pressure"
+            ],
+            "att": "85",
+            "def": "70",
+            "galar_dex_num": "246",
+            "hp": "45",
+            "name": "Pawniard",
+            "national_dex_num": "624",
+            "s_att": "40",
+            "s_def": "40",
+            "spd": "60",
+            "type": [
+                "dark",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Defiant",
+                "Inner Focus",
+                "Pressure"
+            ],
+            "att": "125",
+            "def": "100",
+            "galar_dex_num": "247",
+            "hp": "65",
+            "name": "Bisharp",
+            "national_dex_num": "625",
+            "s_att": "60",
+            "s_def": "70",
+            "spd": "70",
+            "type": [
+                "dark",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Guts",
+                "Inner Focus",
+                "Mold Breaker"
+            ],
+            "att": "100",
+            "def": "85",
+            "galar_dex_num": "248",
+            "hp": "120",
+            "name": "Throh",
+            "national_dex_num": "538",
+            "s_att": "30",
+            "s_def": "85",
+            "spd": "45",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Sturdy",
+                "Inner Focus",
+                "Mold Breaker"
+            ],
+            "att": "125",
+            "def": "75",
+            "galar_dex_num": "249",
+            "hp": "75",
+            "name": "Sawk",
+            "national_dex_num": "539",
+            "s_att": "30",
+            "s_def": "75",
+            "spd": "85",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate",
+                "Neutralizing Gas",
+                "Stench"
+            ],
+            "att": "65",
+            "def": "95",
+            "galar_dex_num": "250",
+            "hp": "40",
+            "name": "Koffing",
+            "national_dex_num": "109",
+            "s_att": "60",
+            "s_def": "45",
+            "spd": "35",
+            "type": [
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate",
+                "Neutralizing Gas",
+                "Misty Surge"
+            ],
+            "att": "90",
+            "def": "120",
+            "galar_dex_num": "251",
+            "hp": "65",
+            "name": "Weezing",
+            "national_dex_num": "0-g",
+            "s_att": "85",
+            "s_def": "70",
+            "spd": "60",
+            "type": [
+                "poison",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Sturdy",
+                "Rock Head",
+                "Rattled"
+            ],
+            "att": "80",
+            "def": "95",
+            "galar_dex_num": "252",
+            "hp": "50",
+            "name": "Bonsly",
+            "national_dex_num": "438",
+            "s_att": "10",
+            "s_def": "45",
+            "spd": "10",
+            "type": [
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Sturdy",
+                "Rock Head",
+                "Rattled"
+            ],
+            "att": "100",
+            "def": "115",
+            "galar_dex_num": "253",
+            "hp": "70",
+            "name": "Sudowoodo",
+            "national_dex_num": "185",
+            "s_att": "30",
+            "s_def": "65",
+            "spd": "30",
+            "type": [
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Cute Charm",
+                "Magic Guard",
+                "Friend Guard"
+            ],
+            "att": "25",
+            "def": "28",
+            "galar_dex_num": "254",
+            "hp": "50",
+            "name": "Cleffa",
+            "national_dex_num": "173",
+            "s_att": "45",
+            "s_def": "55",
+            "spd": "15",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Cute Charm",
+                "Magic Guard",
+                "Friend Guard"
+            ],
+            "att": "45",
+            "def": "48",
+            "galar_dex_num": "255",
+            "hp": "70",
+            "name": "Clefairy",
+            "national_dex_num": "035",
+            "s_att": "60",
+            "s_def": "65",
+            "spd": "35",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Cute Charm",
+                "Magic Guard",
+                "Unaware"
+            ],
+            "att": "70",
+            "def": "73",
+            "galar_dex_num": "256",
+            "hp": "95",
+            "name": "Clefable",
+            "national_dex_num": "036",
+            "s_att": "95",
+            "s_def": "90",
+            "spd": "60",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Hustle",
+                "Serene Grace",
+                "Super Luck"
+            ],
+            "att": "20",
+            "def": "65",
+            "galar_dex_num": "257",
+            "hp": "35",
+            "name": "Togepi",
+            "national_dex_num": "175",
+            "s_att": "40",
+            "s_def": "65",
+            "spd": "20",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Hustle",
+                "Serene Grace",
+                "Super Luck"
+            ],
+            "att": "40",
+            "def": "85",
+            "galar_dex_num": "258",
+            "hp": "55",
+            "name": "Togetic",
+            "national_dex_num": "176",
+            "s_att": "80",
+            "s_def": "105",
+            "spd": "40",
+            "type": [
+                "fairy",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Hustle",
+                "Serene Grace",
+                "Super Luck"
+            ],
+            "att": "50",
+            "def": "95",
+            "galar_dex_num": "259",
+            "hp": "85",
+            "name": "Togekiss",
+            "national_dex_num": "468",
+            "s_att": "120",
+            "s_def": "115",
+            "spd": "80",
+            "type": [
+                "fairy",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Pickup",
+                "Thick Fat",
+                "Gluttony"
+            ],
+            "att": "85",
+            "def": "40",
+            "galar_dex_num": "260",
+            "hp": "135",
+            "name": "Munchlax",
+            "national_dex_num": "446",
+            "s_att": "40",
+            "s_def": "85",
+            "spd": "5",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Immunity",
+                "Thick Fat",
+                "Gluttony"
+            ],
+            "att": "110",
+            "def": "65",
+            "galar_dex_num": "261",
+            "hp": "160",
+            "name": "Snorlax",
+            "national_dex_num": "143",
+            "s_att": "65",
+            "s_def": "110",
+            "spd": "30",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Prankster",
+                "Infiltrator",
+                "Chlorophyll"
+            ],
+            "att": "27",
+            "def": "60",
+            "galar_dex_num": "262",
+            "hp": "40",
+            "name": "Cottonee",
+            "national_dex_num": "546",
+            "s_att": "37",
+            "s_def": "50",
+            "spd": "66",
+            "type": [
+                "grass",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Prankster",
+                "Infiltrator",
+                "Chlorophyll"
+            ],
+            "att": "67",
+            "def": "85",
+            "galar_dex_num": "263",
+            "hp": "60",
+            "name": "Whimsicott",
+            "national_dex_num": "547",
+            "s_att": "77",
+            "s_def": "75",
+            "spd": "116",
+            "type": [
+                "grass",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Lightning Rod",
+                "Rock Head",
+                "Reckless"
+            ],
+            "att": "85",
+            "def": "95",
+            "galar_dex_num": "264",
+            "hp": "80",
+            "name": "Rhyhorn",
+            "national_dex_num": "111",
+            "s_att": "30",
+            "s_def": "30",
+            "spd": "25",
+            "type": [
+                "ground",
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Lightning Rod",
+                "Rock Head",
+                "Reckless"
+            ],
+            "att": "130",
+            "def": "120",
+            "galar_dex_num": "265",
+            "hp": "105",
+            "name": "Rhydon",
+            "national_dex_num": "112",
+            "s_att": "45",
+            "s_def": "45",
+            "spd": "40",
+            "type": [
+                "ground",
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Lightning Rod",
+                "Solid Rock",
+                "Reckless"
+            ],
+            "att": "140",
+            "def": "130",
+            "galar_dex_num": "266",
+            "hp": "115",
+            "name": "Rhyperior",
+            "national_dex_num": "464",
+            "s_att": "55",
+            "s_def": "55",
+            "spd": "40",
+            "type": [
+                "ground",
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Frisk",
+                "Competitive",
+                "Shadow Tag"
+            ],
+            "att": "30",
+            "def": "50",
+            "galar_dex_num": "267",
+            "hp": "45",
+            "name": "Gothita",
+            "national_dex_num": "574",
+            "s_att": "55",
+            "s_def": "65",
+            "spd": "45",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Frisk",
+                "Competitive",
+                "Shadow Tag"
+            ],
+            "att": "45",
+            "def": "70",
+            "galar_dex_num": "268",
+            "hp": "60",
+            "name": "Gothorita",
+            "national_dex_num": "575",
+            "s_att": "75",
+            "s_def": "85",
+            "spd": "55",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Frisk",
+                "Competitive",
+                "Shadow Tag"
+            ],
+            "att": "55",
+            "def": "95",
+            "galar_dex_num": "269",
+            "hp": "70",
+            "name": "Gothitelle",
+            "national_dex_num": "576",
+            "s_att": "95",
+            "s_def": "110",
+            "spd": "65",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Overcoat",
+                "Magic Guard",
+                "Regenerator"
+            ],
+            "att": "30",
+            "def": "40",
+            "galar_dex_num": "270",
+            "hp": "45",
+            "name": "Solosis",
+            "national_dex_num": "577",
+            "s_att": "105",
+            "s_def": "50",
+            "spd": "20",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Overcoat",
+                "Magic Guard",
+                "Regenerator"
+            ],
+            "att": "40",
+            "def": "50",
+            "galar_dex_num": "271",
+            "hp": "65",
+            "name": "Duosion",
+            "national_dex_num": "578",
+            "s_att": "125",
+            "s_def": "60",
+            "spd": "30",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Overcoat",
+                "Magic Guard",
+                "Regenerator"
+            ],
+            "att": "65",
+            "def": "75",
+            "galar_dex_num": "272",
+            "hp": "110",
+            "name": "Reuniclus",
+            "national_dex_num": "579",
+            "s_att": "125",
+            "s_def": "85",
+            "spd": "30",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Swarm",
+                "Shed Skin",
+                "No Guard"
+            ],
+            "att": "75",
+            "def": "45",
+            "galar_dex_num": "273",
+            "hp": "50",
+            "name": "Karrablast",
+            "national_dex_num": "588",
+            "s_att": "40",
+            "s_def": "45",
+            "spd": "60",
+            "type": [
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Swarm",
+                "Shell Armor",
+                "Overcoat"
+            ],
+            "att": "135",
+            "def": "105",
+            "galar_dex_num": "274",
+            "hp": "70",
+            "name": "Escavalier",
+            "national_dex_num": "589",
+            "s_att": "60",
+            "s_def": "105",
+            "spd": "20",
+            "type": [
+                "bug",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Hydration",
+                "Shell Armor",
+                "Overcoat"
+            ],
+            "att": "40",
+            "def": "85",
+            "galar_dex_num": "275",
+            "hp": "50",
+            "name": "Shelmet",
+            "national_dex_num": "616",
+            "s_att": "40",
+            "s_def": "65",
+            "spd": "25",
+            "type": [
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Hydration",
+                "Sticky Hold",
+                "Unburden"
+            ],
+            "att": "70",
+            "def": "40",
+            "galar_dex_num": "276",
+            "hp": "80",
+            "name": "Accelgor",
+            "national_dex_num": "617",
+            "s_att": "100",
+            "s_def": "60",
+            "spd": "145",
+            "type": [
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Telepathy",
+                "Synchronize",
+                "Analytic"
+            ],
+            "att": "55",
+            "def": "55",
+            "galar_dex_num": "277",
+            "hp": "55",
+            "name": "Elgyem",
+            "national_dex_num": "605",
+            "s_att": "85",
+            "s_def": "55",
+            "spd": "30",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Telepathy",
+                "Synchronize",
+                "Analytic"
+            ],
+            "att": "75",
+            "def": "75",
+            "galar_dex_num": "278",
+            "hp": "75",
+            "name": "Beheeyem",
+            "national_dex_num": "606",
+            "s_att": "125",
+            "s_def": "95",
+            "spd": "40",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Snow Cloak",
+                "Slush Rush",
+                "Rattled"
+            ],
+            "att": "70",
+            "def": "40",
+            "galar_dex_num": "279",
+            "hp": "55",
+            "name": "Cubchoo",
+            "national_dex_num": "613",
+            "s_att": "60",
+            "s_def": "40",
+            "spd": "40",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Snow Cloak",
+                "Slush Rush",
+                "Swift Swim"
+            ],
+            "att": "130",
+            "def": "80",
+            "galar_dex_num": "280",
+            "hp": "95",
+            "name": "Beartic",
+            "national_dex_num": "614",
+            "s_att": "70",
+            "s_def": "80",
+            "spd": "50",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Keen Eye",
+                "Sheer Force",
+                "Hustle"
+            ],
+            "att": "83",
+            "def": "50",
+            "galar_dex_num": "281",
+            "hp": "70",
+            "name": "Rufflet",
+            "national_dex_num": "627",
+            "s_att": "37",
+            "s_def": "50",
+            "spd": "60",
+            "type": [
+                "normal",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Keen Eye",
+                "Sheer Force",
+                "Defiant"
+            ],
+            "att": "123",
+            "def": "75",
+            "galar_dex_num": "282",
+            "hp": "100",
+            "name": "Braviary",
+            "national_dex_num": "628",
+            "s_att": "57",
+            "s_def": "75",
+            "spd": "80",
+            "type": [
+                "normal",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Big Pecks",
+                "Overcoat",
+                "Weak Armor"
+            ],
+            "att": "55",
+            "def": "75",
+            "galar_dex_num": "283",
+            "hp": "70",
+            "name": "Vullaby",
+            "national_dex_num": "629",
+            "s_att": "45",
+            "s_def": "65",
+            "spd": "60",
+            "type": [
+                "dark",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Big Pecks",
+                "Overcoat",
+                "Weak Armor"
+            ],
+            "att": "65",
+            "def": "105",
+            "galar_dex_num": "284",
+            "hp": "110",
+            "name": "Mandibuzz",
+            "national_dex_num": "630",
+            "s_att": "55",
+            "s_def": "95",
+            "spd": "80",
+            "type": [
+                "dark",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Battle Armor",
+                "Sniper",
+                "Keen Eye"
+            ],
+            "att": "50",
+            "def": "90",
+            "galar_dex_num": "285",
+            "hp": "40",
+            "name": "Skorupi",
+            "national_dex_num": "451",
+            "s_att": "30",
+            "s_def": "55",
+            "spd": "65",
+            "type": [
+                "poison",
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Battle Armor",
+                "Sniper",
+                "Keen Eye"
+            ],
+            "att": "90",
+            "def": "110",
+            "galar_dex_num": "286",
+            "hp": "70",
+            "name": "Drapion",
+            "national_dex_num": "452",
+            "s_att": "60",
+            "s_def": "75",
+            "spd": "95",
+            "type": [
+                "poison",
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Flash Fire",
+                "Flame Body",
+                "Infiltrator"
+            ],
+            "att": "30",
+            "def": "55",
+            "galar_dex_num": "287",
+            "hp": "50",
+            "name": "Litwick",
+            "national_dex_num": "607",
+            "s_att": "65",
+            "s_def": "55",
+            "spd": "20",
+            "type": [
+                "ghost",
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Flash Fire",
+                "Flame Body",
+                "Infiltrator"
+            ],
+            "att": "40",
+            "def": "60",
+            "galar_dex_num": "288",
+            "hp": "60",
+            "name": "Lampent",
+            "national_dex_num": "608",
+            "s_att": "95",
+            "s_def": "60",
+            "spd": "55",
+            "type": [
+                "ghost",
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Flash Fire",
+                "Flame Body",
+                "Infiltrator"
+            ],
+            "att": "55",
+            "def": "90",
+            "galar_dex_num": "289",
+            "hp": "60",
+            "name": "Chandelure",
+            "national_dex_num": "609",
+            "s_att": "145",
+            "s_def": "90",
+            "spd": "80",
+            "type": [
+                "ghost",
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Contrary",
+                "Suction Cups",
+                "Infiltrator"
+            ],
+            "att": "54",
+            "def": "53",
+            "galar_dex_num": "290",
+            "hp": "53",
+            "name": "Inkay",
+            "national_dex_num": "686",
+            "s_att": "37",
+            "s_def": "46",
+            "spd": "45",
+            "type": [
+                "dark",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Contrary",
+                "Suction Cups",
+                "Infiltrator"
+            ],
+            "att": "92",
+            "def": "88",
+            "galar_dex_num": "291",
+            "hp": "86",
+            "name": "Malamar",
+            "national_dex_num": "687",
+            "s_att": "68",
+            "s_def": "75",
+            "spd": "73",
+            "type": [
+                "dark",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Inner Focus",
+                "Keen Eye",
+                "Pickpocket"
+            ],
+            "att": "95",
+            "def": "55",
+            "galar_dex_num": "292",
+            "hp": "55",
+            "name": "Sneasel",
+            "national_dex_num": "215",
+            "s_att": "35",
+            "s_def": "75",
+            "spd": "115",
+            "type": [
+                "dark",
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Pressure",
+                "Pickpocket"
+            ],
+            "att": "120",
+            "def": "65",
+            "galar_dex_num": "293",
+            "hp": "70",
+            "name": "Weavile",
+            "national_dex_num": "461",
+            "s_att": "45",
+            "s_def": "85",
+            "spd": "125",
+            "type": [
+                "dark",
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Keen Eye",
+                "Stall",
+                "Prankster"
+            ],
+            "att": "75",
+            "def": "75",
+            "galar_dex_num": "294",
+            "hp": "50",
+            "name": "Sableye",
+            "national_dex_num": "302",
+            "s_att": "65",
+            "s_def": "65",
+            "spd": "50",
+            "type": [
+                "dark",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Hyper Cutter",
+                "Intimidate",
+                "Sheer Force"
+            ],
+            "att": "85",
+            "def": "85",
+            "galar_dex_num": "295",
+            "hp": "50",
+            "name": "Mawile",
+            "national_dex_num": "303",
+            "s_att": "55",
+            "s_def": "55",
+            "spd": "50",
+            "type": [
+                "steel",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Absorb",
+                "Chlorophyll",
+                "Storm Drain"
+            ],
+            "att": "86",
+            "def": "67",
+            "galar_dex_num": "296",
+            "hp": "75",
+            "name": "Maractus",
+            "national_dex_num": "556",
+            "s_att": "106",
+            "s_def": "67",
+            "spd": "60",
+            "type": [
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Wonder Skin ",
+                "Magic Guard",
+                "Tinted Lens"
+            ],
+            "att": "58",
+            "def": "80",
+            "galar_dex_num": "297",
+            "hp": "72",
+            "name": "Sigilyph",
+            "national_dex_num": "561",
+            "s_att": "103",
+            "s_def": "80",
+            "spd": "97",
+            "type": [
+                "psychic",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Steadfast",
+                "Inner Focus",
+                "Prankster"
+            ],
+            "att": "70",
+            "def": "40",
+            "galar_dex_num": "298",
+            "hp": "40",
+            "name": "Riolu",
+            "national_dex_num": "447",
+            "s_att": "35",
+            "s_def": "40",
+            "spd": "60",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Steadfast",
+                "Inner Focus",
+                "Justified"
+            ],
+            "att": "110",
+            "def": "70",
+            "galar_dex_num": "299",
+            "hp": "70",
+            "name": "Lucario",
+            "national_dex_num": "448",
+            "s_att": "115",
+            "s_def": "70",
+            "spd": "90",
+            "type": [
+                "fighting",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "White Smoke",
+                "Drought",
+                "Shell Armor"
+            ],
+            "att": "85",
+            "def": "140",
+            "galar_dex_num": "300",
+            "hp": "70",
+            "name": "Torkoal",
+            "national_dex_num": "324",
+            "s_att": "85",
+            "s_def": "70",
+            "spd": "20",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Disguise"
+            ],
+            "att": "90",
+            "def": "80",
+            "galar_dex_num": "301",
+            "hp": "55",
+            "name": "Mimikyu",
+            "national_dex_num": "778",
+            "s_att": "50",
+            "s_def": "105",
+            "spd": "96",
+            "type": [
+                "ghost",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Sheer Force",
+                "Heavy Metal"
+            ],
+            "att": "80",
+            "def": "49",
+            "galar_dex_num": "302",
+            "hp": "72",
+            "name": "Cufant",
+            "national_dex_num": "878",
+            "s_att": "40",
+            "s_def": "49",
+            "spd": "40",
+            "type": [
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Sheer Force",
+                "Heavy Metal"
+            ],
+            "att": "130",
+            "def": "69",
+            "galar_dex_num": "303",
+            "hp": "122",
+            "name": "Copperajah",
+            "national_dex_num": "879",
+            "s_att": "80",
+            "s_def": "69",
+            "spd": "30",
+            "type": [
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Poison Point",
+                "Swift Swim",
+                "Intimidate"
+            ],
+            "att": "95",
+            "def": "85",
+            "galar_dex_num": "304",
+            "hp": "65",
+            "name": "Qwilfish",
+            "national_dex_num": "211",
+            "s_att": "55",
+            "s_def": "55",
+            "spd": "85",
+            "type": [
+                "water",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Absorb",
+                "Cursed Body",
+                "Damp"
+            ],
+            "att": "40",
+            "def": "50",
+            "galar_dex_num": "305",
+            "hp": "55",
+            "name": "Frillish",
+            "national_dex_num": "592",
+            "s_att": "65",
+            "s_def": "85",
+            "spd": "40",
+            "type": [
+                "water",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Absorb",
+                "Cursed Body",
+                "Damp"
+            ],
+            "att": "60",
+            "def": "70",
+            "galar_dex_num": "306",
+            "hp": "100",
+            "name": "Jellicent",
+            "national_dex_num": "593",
+            "s_att": "85",
+            "s_def": "105",
+            "spd": "60",
+            "type": [
+                "water",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Merciless",
+                "Limber",
+                "Regenerator"
+            ],
+            "att": "53",
+            "def": "62",
+            "galar_dex_num": "307",
+            "hp": "50",
+            "name": "Mareanie",
+            "national_dex_num": "747",
+            "s_att": "43",
+            "s_def": "52",
+            "spd": "45",
+            "type": [
+                "poison",
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Merciless",
+                "Limber",
+                "Regenerator"
+            ],
+            "att": "63",
+            "def": "152",
+            "galar_dex_num": "308",
+            "hp": "50",
+            "name": "Toxapex",
+            "national_dex_num": "748",
+            "s_att": "53",
+            "s_def": "142",
+            "spd": "35",
+            "type": [
+                "poison",
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Gulp Missile"
+            ],
+            "att": "85",
+            "def": "55",
+            "galar_dex_num": "309",
+            "hp": "70",
+            "name": "Cramorant",
+            "national_dex_num": "845",
+            "s_att": "85",
+            "s_def": "95",
+            "spd": "85",
+            "type": [
+                "flying",
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Rattled",
+                "Static",
+                "Klutz"
+            ],
+            "att": "38",
+            "def": "35",
+            "galar_dex_num": "310",
+            "hp": "40",
+            "name": "Toxel",
+            "national_dex_num": "848",
+            "s_att": "54",
+            "s_def": "35",
+            "spd": "40",
+            "type": [
+                "electric",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Punk Rock",
+                "Plus",
+                "Technician"
+            ],
+            "att": "98",
+            "def": "70",
+            "galar_dex_num": "311",
+            "hp": "75",
+            "name": "Toxtricity",
+            "national_dex_num": "849",
+            "s_att": "114",
+            "s_def": "70",
+            "spd": "75",
+            "type": [
+                "electric",
+                "poison"
+            ]
+        },
+        {
+            "abilities": [
+                "Sand Spit",
+                "Shed Skin",
+                "Sand Veil"
+            ],
+            "att": "57",
+            "def": "75",
+            "galar_dex_num": "312",
+            "hp": "52",
+            "name": "Silicobra",
+            "national_dex_num": "843",
+            "s_att": "35",
+            "s_def": "50",
+            "spd": "46",
+            "type": [
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Sand Spit",
+                "Shed Skin",
+                "Sand Veil"
+            ],
+            "att": "107",
+            "def": "125",
+            "galar_dex_num": "313",
+            "hp": "72",
+            "name": "Sandaconda",
+            "national_dex_num": "844",
+            "s_att": "65",
+            "s_def": "70",
+            "spd": "71",
+            "type": [
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Sand Stream",
+                "Sand Force"
+            ],
+            "att": "72",
+            "def": "78",
+            "galar_dex_num": "314",
+            "hp": "68",
+            "name": "Hippopotas",
+            "national_dex_num": "449",
+            "s_att": "38",
+            "s_def": "42",
+            "spd": "32",
+            "type": [
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Sand Stream",
+                "Sand Force"
+            ],
+            "att": "112",
+            "def": "118",
+            "galar_dex_num": "315",
+            "hp": "108",
+            "name": "Hippowdon",
+            "national_dex_num": "450",
+            "s_att": "68",
+            "s_def": "72",
+            "spd": "47",
+            "type": [
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Swarm",
+                "Hustle",
+                "Truant"
+            ],
+            "att": "109",
+            "def": "112",
+            "galar_dex_num": "316",
+            "hp": "58",
+            "name": "Durant",
+            "national_dex_num": "632",
+            "s_att": "48",
+            "s_def": "48",
+            "spd": "109",
+            "type": [
+                "bug",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Gluttony",
+                "Flash Fire",
+                "White Smoke"
+            ],
+            "att": "97",
+            "def": "66",
+            "galar_dex_num": "317",
+            "hp": "85",
+            "name": "Heatmor",
+            "national_dex_num": "631",
+            "s_att": "105",
+            "s_def": "66",
+            "spd": "65",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Dry Skin",
+                "Sand Veil",
+                "Solar Power"
+            ],
+            "att": "38",
+            "def": "33",
+            "galar_dex_num": "318",
+            "hp": "44",
+            "name": "Helioptile",
+            "national_dex_num": "694",
+            "s_att": "61",
+            "s_def": "43",
+            "spd": "70",
+            "type": [
+                "electric",
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Dry Skin",
+                "Sand Veil",
+                "Solar Power"
+            ],
+            "att": "55",
+            "def": "52",
+            "galar_dex_num": "319",
+            "hp": "62",
+            "name": "Heliolisk",
+            "national_dex_num": "695",
+            "s_att": "109",
+            "s_def": "94",
+            "spd": "109",
+            "type": [
+                "electric",
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Limber",
+                "Unburden",
+                "Mold Breaker"
+            ],
+            "att": "92",
+            "def": "75",
+            "galar_dex_num": "320",
+            "hp": "78",
+            "name": "Hawlucha",
+            "national_dex_num": "701",
+            "s_att": "74",
+            "s_def": "63",
+            "spd": "118",
+            "type": [
+                "fighting",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Hyper Cutter",
+                "Arena Trap",
+                "Sheer Force"
+            ],
+            "att": "100",
+            "def": "45",
+            "galar_dex_num": "321",
+            "hp": "45",
+            "name": "Trapinch",
+            "national_dex_num": "328",
+            "s_att": "45",
+            "s_def": "45",
+            "spd": "10",
+            "type": [
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "70",
+            "def": "50",
+            "galar_dex_num": "322",
+            "hp": "50",
+            "name": "Vibrava",
+            "national_dex_num": "329",
+            "s_att": "50",
+            "s_def": "50",
+            "spd": "70",
+            "type": [
+                "ground",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "100",
+            "def": "80",
+            "galar_dex_num": "323",
+            "hp": "80",
+            "name": "Flygon",
+            "national_dex_num": "330",
+            "s_att": "80",
+            "s_def": "80",
+            "spd": "100",
+            "type": [
+                "ground",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Rivalry",
+                "Mold Breaker",
+                "Unnerve"
+            ],
+            "att": "87",
+            "def": "60",
+            "galar_dex_num": "324",
+            "hp": "46",
+            "name": "Axew",
+            "national_dex_num": "610",
+            "s_att": "30",
+            "s_def": "40",
+            "spd": "57",
+            "type": [
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Rivalry",
+                "Mold Breaker",
+                "Unnerve"
+            ],
+            "att": "117",
+            "def": "70",
+            "galar_dex_num": "325",
+            "hp": "66",
+            "name": "Fraxure",
+            "national_dex_num": "611",
+            "s_att": "40",
+            "s_def": "50",
+            "spd": "67",
+            "type": [
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Rivalry",
+                "Mold Breaker",
+                "Unnerve"
+            ],
+            "att": "147",
+            "def": "90",
+            "galar_dex_num": "326",
+            "hp": "76",
+            "name": "Haxorus",
+            "national_dex_num": "612",
+            "s_att": "60",
+            "s_def": "70",
+            "spd": "97",
+            "type": [
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Wandering Spirit"
+            ],
+            "att": "55",
+            "def": "85",
+            "galar_dex_num": "327",
+            "hp": "38",
+            "name": "Yamask",
+            "national_dex_num": "2-g",
+            "s_att": "30",
+            "s_def": "65",
+            "spd": "30",
+            "type": [
+                "ground",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Wandering Spirit"
+            ],
+            "att": "95",
+            "def": "145",
+            "galar_dex_num": "328",
+            "hp": "58",
+            "name": "Runerigus",
+            "national_dex_num": "867",
+            "s_att": "50",
+            "s_def": "105",
+            "spd": "30",
+            "type": [
+                "ground",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Mummy"
+            ],
+            "att": "50",
+            "def": "145",
+            "galar_dex_num": "329",
+            "hp": "58",
+            "name": "Cofagrigus",
+            "national_dex_num": "563",
+            "s_att": "95",
+            "s_def": "105",
+            "spd": "30",
+            "type": [
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "No Guard"
+            ],
+            "att": "80",
+            "def": "100",
+            "galar_dex_num": "330",
+            "hp": "45",
+            "name": "Honedge",
+            "national_dex_num": "679",
+            "s_att": "35",
+            "s_def": "37",
+            "spd": "28",
+            "type": [
+                "steel",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "No Guard"
+            ],
+            "att": "110",
+            "def": "150",
+            "galar_dex_num": "331",
+            "hp": "59",
+            "name": "Doublade",
+            "national_dex_num": "680",
+            "s_att": "45",
+            "s_def": "49",
+            "spd": "35",
+            "type": [
+                "steel",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Stance Change"
+            ],
+            "att": "50",
+            "def": "140",
+            "galar_dex_num": "332",
+            "hp": "60",
+            "name": "Aegislash",
+            "national_dex_num": "681",
+            "s_att": "50",
+            "s_def": "140",
+            "spd": "60",
+            "type": [
+                "steel",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Run Away",
+                "Pastel Veil",
+                "Anticipation"
+            ],
+            "att": "85",
+            "def": "55",
+            "galar_dex_num": "333",
+            "hp": "50",
+            "name": "Ponyta",
+            "national_dex_num": "7-g",
+            "s_att": "65",
+            "s_def": "65",
+            "spd": "90",
+            "type": [
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Run Away",
+                "Pastel Veil",
+                "Anticipation"
+            ],
+            "att": "100",
+            "def": "70",
+            "galar_dex_num": "334",
+            "hp": "65",
+            "name": "Rapidash",
+            "national_dex_num": "8-g",
+            "s_att": "80",
+            "s_def": "80",
+            "spd": "105",
+            "type": [
+                "psychic",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Weak Armor",
+                "Cursed Body"
+            ],
+            "att": "45",
+            "def": "45",
+            "galar_dex_num": "335",
+            "hp": "40",
+            "name": "Sinistea",
+            "national_dex_num": "854",
+            "s_att": "74",
+            "s_def": "54",
+            "spd": "50",
+            "type": [
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Weak Armor",
+                "Cursed Body"
+            ],
+            "att": "65",
+            "def": "65",
+            "galar_dex_num": "336",
+            "hp": "60",
+            "name": "Polteageist",
+            "national_dex_num": "855",
+            "s_att": "134",
+            "s_def": "114",
+            "spd": "70",
+            "type": [
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Inner Focus",
+                "Synchronize",
+                "Psychic Surge"
+            ],
+            "att": "65",
+            "def": "55",
+            "galar_dex_num": "337",
+            "hp": "60",
+            "name": "Indeedee",
+            "national_dex_num": "876",
+            "s_att": "105",
+            "s_def": "95",
+            "spd": "95",
+            "type": [
+                "psychic",
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Natural Cure",
+                "Frisk",
+                "Harvest"
+            ],
+            "att": "70",
+            "def": "48",
+            "galar_dex_num": "338",
+            "hp": "43",
+            "name": "Phantump",
+            "national_dex_num": "708",
+            "s_att": "50",
+            "s_def": "60",
+            "spd": "38",
+            "type": [
+                "ghost",
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Natural Cure",
+                "Frisk",
+                "Harvest"
+            ],
+            "att": "110",
+            "def": "76",
+            "galar_dex_num": "339",
+            "hp": "85",
+            "name": "Trevenant",
+            "national_dex_num": "709",
+            "s_att": "65",
+            "s_def": "82",
+            "spd": "56",
+            "type": [
+                "ghost",
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Illuminate",
+                "Effect Spore",
+                "Rain Dish"
+            ],
+            "att": "35",
+            "def": "55",
+            "galar_dex_num": "340",
+            "hp": "40",
+            "name": "Morelull",
+            "national_dex_num": "755",
+            "s_att": "65",
+            "s_def": "75",
+            "spd": "15",
+            "type": [
+                "grass",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Illuminate",
+                "Effect Spore",
+                "Rain Dish"
+            ],
+            "att": "45",
+            "def": "80",
+            "galar_dex_num": "341",
+            "hp": "60",
+            "name": "Shiinotic",
+            "national_dex_num": "756",
+            "s_att": "90",
+            "s_def": "100",
+            "spd": "30",
+            "type": [
+                "grass",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Inner Focus",
+                "Telepathy",
+                "Symbiosis"
+            ],
+            "att": "60",
+            "def": "80",
+            "galar_dex_num": "342",
+            "hp": "90",
+            "name": "Oranguru",
+            "national_dex_num": "765",
+            "s_att": "90",
+            "s_def": "110",
+            "spd": "60",
+            "type": [
+                "normal",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Receiver",
+                "Defiant"
+            ],
+            "att": "120",
+            "def": "90",
+            "galar_dex_num": "343",
+            "hp": "100",
+            "name": "Passimian",
+            "national_dex_num": "766",
+            "s_att": "40",
+            "s_def": "60",
+            "spd": "80",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Hunger Switch"
+            ],
+            "att": "95",
+            "def": "58",
+            "galar_dex_num": "344",
+            "hp": "58",
+            "name": "Morpeko",
+            "national_dex_num": "877",
+            "s_att": "70",
+            "s_def": "58",
+            "spd": "97",
+            "type": [
+                "electric",
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Battle Armor",
+                "Defiant"
+            ],
+            "att": "100",
+            "def": "100",
+            "galar_dex_num": "345",
+            "hp": "65",
+            "name": "Falinks",
+            "national_dex_num": "870",
+            "s_att": "70",
+            "s_def": "60",
+            "spd": "75",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Berserk",
+                "Sap Sipper",
+                "Cloud Nine"
+            ],
+            "att": "60",
+            "def": "85",
+            "galar_dex_num": "346",
+            "hp": "78",
+            "name": "Drampa",
+            "national_dex_num": "780",
+            "s_att": "135",
+            "s_def": "91",
+            "spd": "36",
+            "type": [
+                "normal",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Shell Armor"
+            ],
+            "att": "78",
+            "def": "135",
+            "galar_dex_num": "347",
+            "hp": "60",
+            "name": "Turtonator",
+            "national_dex_num": "776",
+            "s_att": "91",
+            "s_def": "85",
+            "spd": "36",
+            "type": [
+                "fire",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Iron Barbs",
+                "Lightning Rod",
+                "Sturdy"
+            ],
+            "att": "98",
+            "def": "63",
+            "galar_dex_num": "348",
+            "hp": "65",
+            "name": "Togedemaru",
+            "national_dex_num": "777",
+            "s_att": "40",
+            "s_def": "73",
+            "spd": "96",
+            "type": [
+                "electric",
+                "steel"
+            ]
+        },
+        {
+            "abilities": [
+                "Shield Dust",
+                "Ice Scales"
+            ],
+            "att": "25",
+            "def": "35",
+            "galar_dex_num": "349",
+            "hp": "30",
+            "name": "Snom",
+            "national_dex_num": "872",
+            "s_att": "45",
+            "s_def": "30",
+            "spd": "20",
+            "type": [
+                "ice",
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Shield Dust",
+                "Ice Scales"
+            ],
+            "att": "65",
+            "def": "60",
+            "galar_dex_num": "350",
+            "hp": "70",
+            "name": "Frosmoth",
+            "national_dex_num": "873",
+            "s_att": "125",
+            "s_def": "90",
+            "spd": "65",
+            "type": [
+                "ice",
+                "bug"
+            ]
+        },
+        {
+            "abilities": [
+                "Limber",
+                "Technician"
+            ],
+            "att": "68",
+            "def": "60",
+            "galar_dex_num": "351",
+            "hp": "50",
+            "name": "Clobbopus",
+            "national_dex_num": "852",
+            "s_att": "50",
+            "s_def": "50",
+            "spd": "32",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Limber",
+                "Technician"
+            ],
+            "att": "118",
+            "def": "90",
+            "galar_dex_num": "352",
+            "hp": "80",
+            "name": "Grapploct",
+            "national_dex_num": "853",
+            "s_att": "70",
+            "s_def": "80",
+            "spd": "42",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Lightning Rod",
+                "Electric Surge"
+            ],
+            "att": "101",
+            "def": "95",
+            "galar_dex_num": "353",
+            "hp": "48",
+            "name": "Pincurchin",
+            "national_dex_num": "871",
+            "s_att": "91",
+            "s_def": "85",
+            "spd": "15",
+            "type": [
+                "electric"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Water Absorb",
+                "Water Veil"
+            ],
+            "att": "20",
+            "def": "50",
+            "galar_dex_num": "354",
+            "hp": "45",
+            "name": "Mantyke",
+            "national_dex_num": "458",
+            "s_att": "60",
+            "s_def": "120",
+            "spd": "50",
+            "type": [
+                "water",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Swift Swim",
+                "Water Absorb",
+                "Water Veil"
+            ],
+            "att": "40",
+            "def": "70",
+            "galar_dex_num": "355",
+            "hp": "85",
+            "name": "Mantine",
+            "national_dex_num": "226",
+            "s_att": "80",
+            "s_def": "140",
+            "spd": "70",
+            "type": [
+                "water",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Veil",
+                "Oblivious",
+                "Pressure"
+            ],
+            "att": "70",
+            "def": "35",
+            "galar_dex_num": "356",
+            "hp": "130",
+            "name": "Wailmer",
+            "national_dex_num": "320",
+            "s_att": "70",
+            "s_def": "35",
+            "spd": "60",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Veil",
+                "Oblivious",
+                "Pressure"
+            ],
+            "att": "90",
+            "def": "45",
+            "galar_dex_num": "357",
+            "hp": "170",
+            "name": "Wailord",
+            "national_dex_num": "321",
+            "s_att": "90",
+            "s_def": "45",
+            "spd": "60",
+            "type": [
+                "water"
+            ]
+        },
+        {
+            "abilities": [
+                "Own Tempo",
+                "Ice Body",
+                "Sturdy"
+            ],
+            "att": "69",
+            "def": "85",
+            "galar_dex_num": "358",
+            "hp": "55",
+            "name": "Bergmite",
+            "national_dex_num": "712",
+            "s_att": "32",
+            "s_def": "35",
+            "spd": "28",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Own Tempo",
+                "Ice Body",
+                "Sturdy"
+            ],
+            "att": "117",
+            "def": "184",
+            "galar_dex_num": "359",
+            "hp": "95",
+            "name": "Avalugg",
+            "national_dex_num": "713",
+            "s_att": "44",
+            "s_def": "46",
+            "spd": "28",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Steelworker"
+            ],
+            "att": "131",
+            "def": "100",
+            "galar_dex_num": "360",
+            "hp": "70",
+            "name": "Dhelmise",
+            "national_dex_num": "781",
+            "s_att": "86",
+            "s_def": "90",
+            "spd": "40",
+            "type": [
+                "ghost",
+                "grass"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Absorb",
+                "Shell Armor",
+                "Hydration"
+            ],
+            "att": "85",
+            "def": "80",
+            "galar_dex_num": "361",
+            "hp": "130",
+            "name": "Lapras",
+            "national_dex_num": "131",
+            "s_att": "85",
+            "s_def": "95",
+            "spd": "60",
+            "type": [
+                "water",
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "55",
+            "def": "65",
+            "galar_dex_num": "362",
+            "hp": "90",
+            "name": "Lunatone",
+            "national_dex_num": "337",
+            "s_att": "95",
+            "s_def": "85",
+            "spd": "70",
+            "type": [
+                "rock",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "95",
+            "def": "85",
+            "galar_dex_num": "363",
+            "hp": "90",
+            "name": "Solrock",
+            "national_dex_num": "338",
+            "s_att": "55",
+            "s_def": "65",
+            "spd": "70",
+            "type": [
+                "rock",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Soundproof",
+                "Filter",
+                "Technician"
+            ],
+            "att": "25",
+            "def": "45",
+            "galar_dex_num": "364",
+            "hp": "20",
+            "name": "Mime Jr.",
+            "national_dex_num": "439",
+            "s_att": "70",
+            "s_def": "90",
+            "spd": "60",
+            "type": [
+                "psychic",
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Vital Spirit",
+                "Screen Cleaner",
+                "Ice Body"
+            ],
+            "att": "65",
+            "def": "65",
+            "galar_dex_num": "365",
+            "hp": "50",
+            "name": "Mr. Mime",
+            "national_dex_num": "2-g",
+            "s_att": "90",
+            "s_def": "90",
+            "spd": "100",
+            "type": [
+                "ice",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Tangled Feet",
+                "Screen Cleaner",
+                "Ice Body"
+            ],
+            "att": "85",
+            "def": "75",
+            "galar_dex_num": "366",
+            "hp": "80",
+            "name": "Mr. Rime",
+            "national_dex_num": "866",
+            "s_att": "110",
+            "s_def": "100",
+            "spd": "70",
+            "type": [
+                "ice",
+                "psychic"
+            ]
+        },
+        {
+            "abilities": [
+                "Hustle",
+                "Inner Focus"
+            ],
+            "att": "90",
+            "def": "45",
+            "galar_dex_num": "367",
+            "hp": "70",
+            "name": "Darumaka",
+            "national_dex_num": "4-g",
+            "s_att": "15",
+            "s_def": "45",
+            "spd": "50",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Gorilla Tactics",
+                "Zen Mode"
+            ],
+            "att": "140",
+            "def": "55",
+            "galar_dex_num": "368",
+            "hp": "105",
+            "name": "Darmanitan",
+            "national_dex_num": "5-g",
+            "s_att": "30",
+            "s_def": "55",
+            "spd": "95",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Power Spot"
+            ],
+            "att": "125",
+            "def": "135",
+            "galar_dex_num": "369",
+            "hp": "100",
+            "name": "Stonjourner",
+            "national_dex_num": "874",
+            "s_att": "20",
+            "s_def": "20",
+            "spd": "70",
+            "type": [
+                "rock"
+            ]
+        },
+        {
+            "abilities": [
+                "Ice Face"
+            ],
+            "att": "80",
+            "def": "110",
+            "galar_dex_num": "370",
+            "hp": "75",
+            "name": "Eiscue",
+            "national_dex_num": "875",
+            "s_att": "65",
+            "s_def": "90",
+            "spd": "50",
+            "type": [
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Light Metal",
+                "Heavy Metal",
+                "Stalwart"
+            ],
+            "att": "95",
+            "def": "115",
+            "galar_dex_num": "371",
+            "hp": "70",
+            "name": "Duraludon",
+            "national_dex_num": "884",
+            "s_att": "120",
+            "s_def": "50",
+            "spd": "85",
+            "type": [
+                "steel",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "50",
+            "def": "77",
+            "galar_dex_num": "372",
+            "hp": "50",
+            "name": "Rotom",
+            "national_dex_num": "479",
+            "s_att": "95",
+            "s_def": "77",
+            "spd": "91",
+            "type": [
+                "electric",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Limber",
+                "Imposter"
+            ],
+            "att": "48",
+            "def": "48",
+            "galar_dex_num": "373",
+            "hp": "48",
+            "name": "Ditto",
+            "national_dex_num": "132",
+            "s_att": "48",
+            "s_def": "48",
+            "spd": "48",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Volt Absorb",
+                "Hustle",
+                "Sand Rush"
+            ],
+            "att": "100",
+            "def": "90",
+            "galar_dex_num": "374",
+            "hp": "90",
+            "name": "Dracozolt",
+            "national_dex_num": "880",
+            "s_att": "80",
+            "s_def": "70",
+            "spd": "75",
+            "type": [
+                "electric",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Volt Absorb",
+                "Static",
+                "Slush Rush"
+            ],
+            "att": "100",
+            "def": "90",
+            "galar_dex_num": "375",
+            "hp": "90",
+            "name": "Arctozolt",
+            "national_dex_num": "881",
+            "s_att": "90",
+            "s_def": "80",
+            "spd": "55",
+            "type": [
+                "electric",
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Absorb",
+                "Strong Jaw",
+                "Sand Rush"
+            ],
+            "att": "90",
+            "def": "100",
+            "galar_dex_num": "376",
+            "hp": "90",
+            "name": "Dracovish",
+            "national_dex_num": "882",
+            "s_att": "70",
+            "s_def": "80",
+            "spd": "75",
+            "type": [
+                "water",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Water Absorb",
+                "Ice Body",
+                "Slush Rush"
+            ],
+            "att": "90",
+            "def": "100",
+            "galar_dex_num": "377",
+            "hp": "90",
+            "name": "Arctovish",
+            "national_dex_num": "883",
+            "s_att": "80",
+            "s_def": "90",
+            "spd": "55",
+            "type": [
+                "water",
+                "ice"
+            ]
+        },
+        {
+            "abilities": [
+                "Blaze",
+                "Solar Power"
+            ],
+            "att": "52",
+            "def": "43",
+            "galar_dex_num": "378",
+            "hp": "39",
+            "name": "Charmander",
+            "national_dex_num": "004",
+            "s_att": "60",
+            "s_def": "50",
+            "spd": "65",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Blaze",
+                "Solar Power"
+            ],
+            "att": "64",
+            "def": "58",
+            "galar_dex_num": "379",
+            "hp": "58",
+            "name": "Charmeleon",
+            "national_dex_num": "005",
+            "s_att": "80",
+            "s_def": "65",
+            "spd": "80",
+            "type": [
+                "fire"
+            ]
+        },
+        {
+            "abilities": [
+                "Blaze",
+                "Solar Power"
+            ],
+            "att": "84",
+            "def": "78",
+            "galar_dex_num": "380",
+            "hp": "78",
+            "name": "Charizard",
+            "national_dex_num": "006",
+            "s_att": "109",
+            "s_def": "85",
+            "spd": "100",
+            "type": [
+                "fire",
+                "flying"
+            ]
+        },
+        {
+            "abilities": [
+                "Battle Armor"
+            ],
+            "att": "95",
+            "def": "95",
+            "galar_dex_num": "381",
+            "hp": "95",
+            "name": "Type: Null",
+            "national_dex_num": "772",
+            "s_att": "95",
+            "s_def": "95",
+            "spd": "59",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "RKS System"
+            ],
+            "att": "95",
+            "def": "95",
+            "galar_dex_num": "382",
+            "hp": "95",
+            "name": "Silvally",
+            "national_dex_num": "773",
+            "s_att": "95",
+            "s_def": "95",
+            "spd": "95",
+            "type": [
+                "normal"
+            ]
+        },
+        {
+            "abilities": [
+                "Guts",
+                "Sand Veil"
+            ],
+            "att": "64",
+            "def": "50",
+            "galar_dex_num": "383",
+            "hp": "50",
+            "name": "Larvitar",
+            "national_dex_num": "246",
+            "s_att": "45",
+            "s_def": "50",
+            "spd": "41",
+            "type": [
+                "rock",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Shed Skin"
+            ],
+            "att": "84",
+            "def": "70",
+            "galar_dex_num": "384",
+            "hp": "70",
+            "name": "Pupitar",
+            "national_dex_num": "247",
+            "s_att": "65",
+            "s_def": "70",
+            "spd": "51",
+            "type": [
+                "rock",
+                "ground"
+            ]
+        },
+        {
+            "abilities": [
+                "Sand Stream",
+                "Unnerve"
+            ],
+            "att": "134",
+            "def": "110",
+            "galar_dex_num": "385",
+            "hp": "100",
+            "name": "Tyranitar",
+            "national_dex_num": "248",
+            "s_att": "95",
+            "s_def": "100",
+            "spd": "61",
+            "type": [
+                "rock",
+                "dark"
+            ]
+        },
+        {
+            "abilities": [
+                "Hustle"
+            ],
+            "att": "65",
+            "def": "50",
+            "galar_dex_num": "386",
+            "hp": "52",
+            "name": "Deino",
+            "national_dex_num": "633",
+            "s_att": "45",
+            "s_def": "50",
+            "spd": "38",
+            "type": [
+                "dark",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Hustle"
+            ],
+            "att": "85",
+            "def": "70",
+            "galar_dex_num": "387",
+            "hp": "72",
+            "name": "Zweilous",
+            "national_dex_num": "634",
+            "s_att": "65",
+            "s_def": "70",
+            "spd": "58",
+            "type": [
+                "dark",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Levitate"
+            ],
+            "att": "105",
+            "def": "90",
+            "galar_dex_num": "388",
+            "hp": "92",
+            "name": "Hydreigon",
+            "national_dex_num": "635",
+            "s_att": "125",
+            "s_def": "90",
+            "spd": "98",
+            "type": [
+                "dark",
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Sap Sipper",
+                "Hydration",
+                "Gooey"
+            ],
+            "att": "50",
+            "def": "35",
+            "galar_dex_num": "389",
+            "hp": "45",
+            "name": "Goomy",
+            "national_dex_num": "704",
+            "s_att": "55",
+            "s_def": "75",
+            "spd": "40",
+            "type": [
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Sap Sipper",
+                "Hydration",
+                "Gooey"
+            ],
+            "att": "75",
+            "def": "53",
+            "galar_dex_num": "390",
+            "hp": "68",
+            "name": "Sliggoo",
+            "national_dex_num": "705",
+            "s_att": "83",
+            "s_def": "113",
+            "spd": "60",
+            "type": [
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Sap Sipper",
+                "Hydration",
+                "Gooey"
+            ],
+            "att": "100",
+            "def": "70",
+            "galar_dex_num": "391",
+            "hp": "90",
+            "name": "Goodra",
+            "national_dex_num": "706",
+            "s_att": "110",
+            "s_def": "150",
+            "spd": "80",
+            "type": [
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Bulletproof",
+                "Soundproof",
+                "Overcoat"
+            ],
+            "att": "55",
+            "def": "65",
+            "galar_dex_num": "392",
+            "hp": "45",
+            "name": "Jangmo-o",
+            "national_dex_num": "782",
+            "s_att": "45",
+            "s_def": "45",
+            "spd": "45",
+            "type": [
+                "dragon"
+            ]
+        },
+        {
+            "abilities": [
+                "Bulletproof",
+                "Soundproof",
+                "Overcoat"
+            ],
+            "att": "75",
+            "def": "90",
+            "galar_dex_num": "393",
+            "hp": "55",
+            "name": "Hakamo-o",
+            "national_dex_num": "783",
+            "s_att": "65",
+            "s_def": "70",
+            "spd": "65",
+            "type": [
+                "dragon",
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Bulletproof",
+                "Soundproof",
+                "Overcoat"
+            ],
+            "att": "110",
+            "def": "125",
+            "galar_dex_num": "394",
+            "hp": "75",
+            "name": "Kommo-o",
+            "national_dex_num": "784",
+            "s_att": "100",
+            "s_def": "105",
+            "spd": "85",
+            "type": [
+                "dragon",
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Clear Body",
+                "Infiltrator",
+                "Cursed Body"
+            ],
+            "att": "60",
+            "def": "30",
+            "galar_dex_num": "395",
+            "hp": "28",
+            "name": "Dreepy",
+            "national_dex_num": "885",
+            "s_att": "40",
+            "s_def": "30",
+            "spd": "82",
+            "type": [
+                "dragon",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Clear Body",
+                "Infiltrator",
+                "Cursed Body"
+            ],
+            "att": "80",
+            "def": "50",
+            "galar_dex_num": "396",
+            "hp": "68",
+            "name": "Drakloak",
+            "national_dex_num": "886",
+            "s_att": "60",
+            "s_def": "50",
+            "spd": "102",
+            "type": [
+                "dragon",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Clear Body",
+                "Infiltrator",
+                "Cursed Body"
+            ],
+            "att": "120",
+            "def": "75",
+            "galar_dex_num": "397",
+            "hp": "88",
+            "name": "Dragapult",
+            "national_dex_num": "887",
+            "s_att": "100",
+            "s_def": "75",
+            "spd": "142",
+            "type": [
+                "dragon",
+                "ghost"
+            ]
+        },
+        {
+            "abilities": [
+                "Intrepid Sword"
+            ],
+            "att": "130",
+            "def": "115",
+            "galar_dex_num": "398",
+            "hp": "92",
+            "name": "Zacian",
+            "national_dex_num": "888",
+            "s_att": "80",
+            "s_def": "115",
+            "spd": "138",
+            "type": [
+                "fairy"
+            ]
+        },
+        {
+            "abilities": [
+                "Dauntless Shield"
+            ],
+            "att": "130",
+            "def": "115",
+            "galar_dex_num": "399",
+            "hp": "92",
+            "name": "Zamazenta",
+            "national_dex_num": "889",
+            "s_att": "80",
+            "s_def": "115",
+            "spd": "138",
+            "type": [
+                "fighting"
+            ]
+        },
+        {
+            "abilities": [
+                "Pressure"
+            ],
+            "att": "85",
+            "def": "95",
+            "galar_dex_num": "400",
+            "hp": "140",
+            "name": "Eternatus",
+            "national_dex_num": "890",
+            "s_att": "145",
+            "s_def": "95",
+            "spd": "130",
+            "type": [
+                "poison",
+                "dragon"
+            ]
+        }
+    ]
+}
